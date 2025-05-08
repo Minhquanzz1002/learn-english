@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/minhquanzz1002">
-    <img src="./assets/main.jpg" alt="Minhquanzz1002" />
+    <img src="./assets/architecture.png" alt="Minhquanzz1002" />
   </a>
 </div>
 
