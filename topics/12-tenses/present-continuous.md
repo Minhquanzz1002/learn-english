@@ -14,7 +14,7 @@
 ---
 
 #### ✅ Công thức
-S + am/is/are + being + V<sub>3/ed</sub>
+> S + am/is/are + being + V<sub>3/ed</sub>
 
 #### 📝 Ví dụ
 - The boxes are being loaded onto the truck.
