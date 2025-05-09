@@ -16,17 +16,17 @@
 
 #### ✅ Công thức
 
-| Loại câu   | Cấu trúc                           |
-|------------|------------------------------------|
-| Khẳng định | S + was/were + V<sub>3</sub>       |
-| Phủ định   | S + was/were + not + V<sub>3</sub> |
-| Nghi vấn   | Was/Were + S + V<sub>3</sub>       |
+| Loại câu   | Cấu trúc                                 |
+|------------|------------------------------------------|
+| Khẳng định | S + was/were + being + V<sub>3</sub>     |
+| Phủ định   | S + was/were + not being + V<sub>3</sub> |
+| Nghi vấn   | Was/Were + S + being + V<sub>3</sub>     |
 
 #### 📝 Ví dụ
 
-| Chủ động                                       | Bị động                                               |
-|------------------------------------------------|-------------------------------------------------------|
-| The manager approved the new budget yesterday. | The new budget was approved by the manager yesterday. |
+| Chủ động                                       | Bị động                                       |
+|------------------------------------------------|-----------------------------------------------|
+| They were repairing the road when I passed by. | The road was being repaired when I passed by. |
 
 ### 📌 Cách dùng
 
