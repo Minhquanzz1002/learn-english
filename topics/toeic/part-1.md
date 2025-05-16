@@ -83,6 +83,8 @@
     - fan: quạt
     - roof: mái nhà
     - furniture: nội thất
+    - rug: cái thảm
+    - 
 3. Giao thông
    - airplane: máy bay
    - bike = bicycle: xe đạp
