@@ -9,6 +9,16 @@
 | Phủ định   | S + did not + V      |
 | Nghi vấn   | Did + S + V          |
 
+👉 **Chú ý:** Dùng `S + did + V` trong câu khẳng định để nhấn mạnh một việc gì đó. Việc dùng *did + V* và *V<sub>2/ed</sub>* về nghĩa là như nhau.
+
+👉 Khi có trợ động từ `did`, thì động từ chính trở về nguyên mẫu
+
+> - He allowed us to join  
+> Anh ấy cho phép chúng tôi tham gia
+
+> - He did allow us to join  
+> Anh ấy cho phép chúng tôi tham gia (nhấn mạnh việc tham gia đã THỰC SỰ được cho phép)
+
 ### 📌 Dạng bị động
 
 ---
