@@ -8,14 +8,16 @@
 
 ### Chủ đề
 
+---
+
 1. [Thì](/topics/12-tenses/README.md)
-2. [](/topics/)
-3. [](/topics/)
-4. [](/topics/)
-5. [](/topics/)
-6. [](/topics/)
-7. [](/topics/)
-8. [](/topics/)
+2. [Mẹo toeic part 1](/topics/toeic/part-1.md)
+3. [Mẹo toeic part 2](/topics/toeic/part-2.md)
+4. [Mẹo toeic part 3](/topics/toeic/part-3.md)
+5. [Mẹo toeic part 4](/topics/toeic/part-4.md)
+6. [Mẹo toeic part 5](/topics/toeic/part-5.md)
+7. [Mẹo toeic part 6](/topics/toeic/part-6.md)
+8. [Mẹo toeic part 7](/topics/toeic/part-7.md)
 9. [](/topics/)
 10. [](/topics/)
 
