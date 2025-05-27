@@ -28,6 +28,8 @@
 
 ### 📌 Quy tắc trật tự tính từ.
 
+---
+
 Khi có nhiều tính từ cùng miêu tả một danh từ, chúng ta phải tuân theo thứ tự sau:
 > Opinion → Size → Age → Shape → Color → Origin → Material → Purpose → Noun  
 > 👉 Viết tắt: **OSASCOMP**
@@ -45,3 +47,8 @@ Khi có nhiều tính từ cùng miêu tả một danh từ, chúng ta phải tu
 | **Material** (chất liệu) | wooden, metal   |
 | **Purpose** (mục đích)   | cooking (pan)   |
 
+### 📌 Đuôi tính từ
+
+---
+
+Các đuôi tính từ thông dụng: `-able`, `-ible`, `-al`, `-ful`, `-less`, `-ive`, `-ous`, `-ic`, `-ical`, `-y`, `-en`, `-ish`, `-ed`, `-ing`

@@ -14,3 +14,5 @@
 4. [Giới từ](preposition.md)
 5. [Trạng từ](adv.md)
 6. [Động từ nối](linking-verb.md)
+7. [Động từ khiếm khuyết](modal-verb.md)
+8. [Động từ gây khiến](causetive-verb.md)

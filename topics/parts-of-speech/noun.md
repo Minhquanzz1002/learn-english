@@ -70,3 +70,24 @@
 ### 📌 Đuôi danh từ
 
 ---
+
+### 📌 Bãy toeic
+
+--- 
+
+> Our spokesperson will explain an ___ opportunity for property investors.  
+> A. excitedly  
+> B. excitement  
+> C. excited  
+> D. exciting  
+> 
+> ➡️ Đáp án đúng: D
+
+Dạng `an + adj + N`. Có 2 đáp án `excited` và `exciting` là adj.
+- `excited` + N<sub>người</sub>
+- `exciting` + N<sub>vật</sub>
+
+➡️ Đáp án là D
+
+---
+

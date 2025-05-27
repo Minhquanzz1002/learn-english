@@ -1,6 +1,25 @@
 ## TOEIC - PART 5 (30 CÂU)
 
-### 📌 Các cụm từ bắt đầu bằng `make`
+### 📌 Các dạng bài chính
+
+#### ✅ Từ loại
+
+#### ✅ Điều chủ ngữ
+
+#### ✅ Từ chỉ số lượng
+
+> Members of the security team have been instructed to report ___ unattended bag to the local police department.  
+> A. any ✅  
+> B. much  
+> C. most  
+> D. all
+
+- `bag` là danh từ đếm được số ít
+- `any` + danh từ số ít
+- `much` + danh từ không đếm được
+- `most` và `all` thường đi với danh từ số nhiều
+
+### 📌 Các cụm từ thường gặp
 
 ---
 
@@ -48,13 +67,28 @@
 > C) accidents  
 > B) accidental  
 > D) accidentally
+> 
+> ➡️ Đáp án đúng: D
 
-**Đáp án:** D  
 - Câu cần chia là bị động quá khứ đơn were/was + V<sub>3/ed</sub>. Cần `adv`
 - `were` là V  
-- `deleted` là V<sub>3/ed</sub>  
+- `deleted` là V<sub>3/ed</sub>
 
 ### 📌 Mẹo
+
+#### 🧠 Khi chủ ngữ là V<sub>ing</sub> thì động từ chia số ít
+
+> ___ for using the hotel's spa and dining services have appeared on the final invoice.  
+> A. Charge (S<sub>ít</sub>)  
+> B. Charges (S<sub>nhiều</sub>)  
+> C. Charging   
+> D. Charged
+>
+> ➡️ Đáp án đúng: B
+
+- Cần S là số nhiều vì có `have appeared` ➡️ loại A
+- C là V<sub>ing</sub> phải đi với động từ số ít
+- D là V<sub>ed</sub> không thể làm chủ ngữ
 
 - ➡️ Sau giới từ dùng V<sub>ing</sub> hoặc N
 - ➡️ Đứng trước N là adj
