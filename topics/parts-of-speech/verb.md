@@ -30,8 +30,6 @@ Các đuôi động từ thông dụng: `-ate`, `-en`, `-ify`, `-ize`, `-ise`
 
 #### ✦ Những động từ chỉ đi với V<sub>ing</sub>
 
----
-
 | Động từ          | Nghĩa      |
 |------------------|------------|
 | enjoy            | thích      |
@@ -46,9 +44,9 @@ Các đuôi động từ thông dụng: `-ate`, `-en`, `-ify`, `-ize`, `-ise`
 | practive         | luyện tập  |
 | admit            | thừa nhận  |
 
-#### ✦ Những động từ chỉ đi với to V
-
 ---
+
+#### ✦ Những động từ chỉ đi với to V
 
 | Động từ | Nghĩa        |
 |---------|--------------|
@@ -65,9 +63,9 @@ Các đuôi động từ thông dụng: `-ate`, `-en`, `-ify`, `-ize`, `-ise`
 | manage  | xoay xở được |
 | offer   | đề nghị      |
 
-#### ✦ Những động từ chỉ đi với cả V<sub>ing</sub> và to V (nghĩa không đổi)
-
 ---
+
+#### ✦ Những động từ chỉ đi với cả V<sub>ing</sub> và to V (nghĩa không đổi)
 
 | Động từ  | Nghĩa     |
 |----------|-----------|
@@ -79,9 +77,9 @@ Các đuôi động từ thông dụng: `-ate`, `-en`, `-ify`, `-ize`, `-ise`
 | prefer   | thích hơn |
 | hate     | ghét      |
 
-#### ✦ Những động từ chỉ đi với cả V<sub>ing</sub> và to V (khác nghĩa)
-
 ---
+
+#### ✦ Những động từ chỉ đi với cả V<sub>ing</sub> và to V (khác nghĩa)
 
 | Động từ  | Nghĩa                                                                    |
 |----------|--------------------------------------------------------------------------|
@@ -90,3 +88,5 @@ Các đuôi động từ thông dụng: `-ate`, `-en`, `-ify`, `-ize`, `-ise`
 | stop     | to V: dừng lại để làm việc khác; V<sub>ing</sub>: dừng hẳn việc đang làm |
 | try      | to V: cố gắng làm; V<sub>ing</sub>: thử làm để xem sao                   |
 | regret   | to V: tiếc khi phải thông báo; V<sub>ing</sub>: tiếc vì đã làm           |
+
+---
