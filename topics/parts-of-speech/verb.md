@@ -24,6 +24,17 @@
 
 Các đuôi động từ thông dụng: `-ate`, `-en`, `-ify`, `-ize`, `-ise`
 
+### 📌 Động từ theo sau bởi 1 giới từ
+
+---
+
+| Động từ | Giới từ | Ví dụ              | Nghĩa               |
+|---------|---------|--------------------|---------------------|
+| apply   | to      | apply to a company | nộp đơn vào một cty |
+| apply   | for     | apply for a job    | xin một công việc   |
+| listen  | to      | listen to music    | nghe nhạc           |
+| depend  | on      | depend on someone  | phụ thuộc vào ai đó |
+
 ### 📌 Động từ theo sau bởi 1 động từ khác
 
 ---
@@ -32,6 +43,7 @@ Các đuôi động từ thông dụng: `-ate`, `-en`, `-ify`, `-ize`, `-ise`
 
 | Động từ          | Nghĩa      |
 |------------------|------------|
+| love             | yêu thích  |
 | enjoy            | thích      |
 | avoid            | tránh      |
 | consider         | cân nhắc   |

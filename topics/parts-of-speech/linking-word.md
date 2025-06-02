@@ -25,6 +25,7 @@
 | Therefore                    | Do đó      |
 | Thus                         | Vì thế     |
 | As a result                  | Kết quả là |
+| As a consequence             | Hậu quả là |
 | Consequently                 | Do đó      |
 | Due to + N/V<sub>ing</sub>   | Do         |
 | Owing to + N/V<sub>ing</sub> | Vì         |

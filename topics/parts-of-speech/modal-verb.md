@@ -18,6 +18,8 @@
 | will       | sẽ                             |
 | would      | sẽ (giả định, lịch sự)         |
 
+Chú ý: cấu trúc `would be + adj + to V` diễn tả cảm xúc, thái độ (sẵn lòng làm gì).  
+Ex: I have attached my resume and `would be happy to provide` excellent references should you request them.
 
 ### 📌 Công thức
 
