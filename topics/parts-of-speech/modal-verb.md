@@ -31,3 +31,12 @@ Ex: I have attached my resume and `would be happy to provide` excellent referenc
 | Bị động hiện tại / tương lai  | Modal + be + V<sub>3/ed</sub>        | The job **must be done**    |
 | Chủ động quá khứ              | Modal + have + V<sub>3/ed</sub>      | He **should have called**   |
 | Bị động quá khứ               | Modal + have been + V<sub>3/ed</sub> | It **could have been lost** |
+
+### 📌 Dạng câu phổ biến trong giao tiếp
+
+---
+
+#### 📌 Tôi nên cái gì đó
+
+> **What should I + V**  
+> VD: What should I name my project in the README.me file?
