@@ -21,10 +21,11 @@
 | Nghi vấn   | Have/Has + S + been + V<sub>3</sub>       |
 
 #### 📝 Ví dụ
-| Chủ động                  | Bị động                     |
-|---------------------------|-----------------------------|
-| She has written a letter. | A letter has been written.  |
-| I have read the book.     | The book has been read.     |
+| Chủ động                  | Bị động                                          |
+|---------------------------|--------------------------------------------------|
+| She has written a letter. | A letter has been written.                       |
+| I have read the book.     | The book has been read.                          |
+|                           | This issue has already been fixed in ticket #123 |
 
 ### 📌 Cách dùng
 

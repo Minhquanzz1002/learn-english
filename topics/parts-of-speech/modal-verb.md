@@ -32,6 +32,15 @@ Ex: I have attached my resume and `would be happy to provide` excellent referenc
 | Chủ động quá khứ              | Modal + have + V<sub>3/ed</sub>      | He **should have called**   |
 | Bị động quá khứ               | Modal + have been + V<sub>3/ed</sub> | It **could have been lost** |
 
+### 📌 Should
+
+| Cấu trúc                     | Ví dụ                       | Nghĩa                   |
+|------------------------------|-----------------------------|-------------------------|
+| should + V                   | You should check the data   | Bạn nên kiểm tra data   |
+| should be + adj/noun         | I think it should be        | Tôi nghĩ nó nên là      |
+| should be + V<sub>3/ed</sub> | The data should be returned | Dữ liệu nên được trả về |
+
+
 ### 📌 Dạng câu phổ biến trong giao tiếp
 
 ---
@@ -40,3 +49,4 @@ Ex: I have attached my resume and `would be happy to provide` excellent referenc
 
 > **What should I + V**  
 > VD: What should I name my project in the README.me file?
+
