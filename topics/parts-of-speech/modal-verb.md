@@ -32,6 +32,20 @@ Ex: I have attached my resume and `would be happy to provide` excellent referenc
 | Chủ động quá khứ              | Modal + have + V<sub>3/ed</sub>      | He **should have called**   |
 | Bị động quá khứ               | Modal + have been + V<sub>3/ed</sub> | It **could have been lost** |
 
+### 📌 Dạng câu hỏi
+
+> Wh + modal + S + V  
+> Ex: What should I do
+
+How should the other cases be handled?  
+
+Wh: How  
+modal: should  
+S: the other cases  
+V: be
+
+What value should `a` have in the other cases?
+
 ### 📌 Should
 
 | Cấu trúc                     | Ví dụ                       | Nghĩa                   |
@@ -48,5 +62,5 @@ Ex: I have attached my resume and `would be happy to provide` excellent referenc
 #### 📌 Tôi nên cái gì đó
 
 > **What should I + V**  
-> VD: What should I name my project in the README.me file?
+> Ex: What should I name my project in the README.me file?
 

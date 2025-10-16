@@ -82,3 +82,22 @@ Dùng vì ticket đã xử lý nhưng vẫn còn liên quan tới hiện tại.
 > According to the design document of [general_info] API, the SQL001 query should return one record.  
 > However, the current data returns multiple records, which causes an error.  
 > Please confirm it.
+
+### Dạng nếu thì, ngược lại thì.
+
+> According to the design document, if the [Condition 1] is met, perform the split, if the [Condition 2] is not met, do not perform the split.  
+> How should the other cases be handled?
+
+> According to the design document, if the [Condition 1] is met, perform the split, if the [Condition 2] is not met, do not perform the split.  
+> How should the cases below be handled?
+
+> According to the design document:
+> - If the [Condition 1] is correct, set `a = 1`.
+> - If the [Condition 2] is correct, set `a = 3`.
+> 
+> What value should `a` have in the other cases?
+
+### Hai câu SQL ra cùng 1 kết quả.
+
+> We have tested the SQL001 and SQL002, and the data returned are almost the same.
+> Please check.
