@@ -101,3 +101,82 @@ Dùng vì ticket đã xử lý nhưng vẫn còn liên quan tới hiện tại.
 
 > We have tested the SQL001 and SQL002, and the data returned are almost the same.
 > Please check.
+
+### Bị thay đổi, nhưng tài liệu chưa thay đổi.
+
+> According to ticket #123, it seems you changed the `function_code` from `univ_passing` to `univ_passing_status`.  
+> However, according to the [general_detail] API, it still uses value `univ_passing`, which causes an error.  
+> 
+> Please check.
+
+### Sai format.
+
+> According to the design document of general_detail API, it returns a JSON value obtained from SQL001.  
+> However, the JSON data stored in the database has an incorrect format (it does not include the key JP).  
+> Therefore, the above error occurs.  
+> 
+> Please check.
+
+### Cần vài field non-null.
+
+> About this issue, we would like to the following point.
+> 
+> According to the UI design document, the BFF parent_001 must return two fields, userId and cognitoSub, as non-null values.  
+> These two fields are obtained from SQL001 of the general_detail API.
+> However, SQL001 returned no data, which caused the above error.
+> 
+> Please prepare the data and test again.
+
+Câu gốc 2
+
+According to the UI design document, the BFF a must return two fields, a and b, as non-null values.
+
+Cấu trúc / thì: “must return” = modal + V (base form) → modal verb (must) biểu thị quy định / requirement / obligation ở hiện tại.
+
+Tại sao dùng: câu này nêu quy tắc / đặc tả trong thiết kế (design doc). Quy tắc thường dùng present simple (hoặc modal) để diễn tả điều nên/thực tế phải xảy ra. “Must” nhấn mạnh đây là bắt buộc theo thiết kế.
+
+Ghi chú: nếu muốn văn phong nhẹ nhàng hơn có thể dùng “should return” (recommendation), nhưng “must” phù hợp khi thiết kế bắt buộc.
+
+Câu gốc 3
+
+These two fields are obtained from SQL001 of the general_detail API.
+
+Cấu trúc / thì: Present simple passive (“are obtained”) — động từ bị động ở hiện tại đơn.
+
+Tại sao dùng: câu này nói một sự thật hiện tại / cách hệ thống hoạt động: giá trị của hai field lấy từ SQL001. Vì chủ thể (SQL001) là nguồn dữ liệu, ta dùng dạng bị động để nhấn vào “two fields” (đối tượng) chứ không nhấn vào ai/thứ lấy dữ liệu. Present simple phù hợp cho habitual fact / design fact (điều luôn đúng).
+
+Ghi chú: có thể đổi thành active: “SQL001 returns these two fields.” — cũng đúng, nhưng passive hợp với style QA vì nhấn vào fields.
+
+Câu gốc 4
+
+However, SQL001 returned no data, which caused the above error.
+
+Cấu trúc / thì: Past simple (“returned”, “caused”) + relative clause “which caused…”.
+
+Tại sao dùng: đây mô tả sự kiện cụ thể đã xảy ra trong quá trình test (lần test/kiểm tra vừa rồi), tức là một hành động trong quá khứ → dùng past simple. “Which caused the above error” nối kết kết quả trực tiếp của hành động quá khứ.
+
+Ghi chú: nếu muốn nhấn tính liên tục đến hiện tại (ví dụ SQL vẫn chưa trả data đến giờ), có thể dùng present perfect: “SQL001 has returned no data, which has caused the above error” — nhưng thông thường trong QA khi báo một kết quả test cụ thể, dùng past simple cho rõ ràng.
+
+Câu gốc 5
+
+Please prepare the required data and test again.
+
+Cấu trúc / thì: Imperative (mệnh lệnh / đề nghị) bằng present simple.
+
+Tại sao dùng: đây là yêu cầu/đề nghị hành động hướng tới người nhận — cấu trúc tiêu chuẩn là động từ nguyên thể đứng đầu (Please + V). Ngắn gọn, rõ ràng và lịch sự.
+
+Ghi chú: có thể thêm “If the error persists, please provide …” để yêu cầu tiếp theo nếu vẫn có lỗi.
+
+Tổng kết ngắn gọn — khi nào chọn dạng nào
+
+Quy định / thiết kế → present (simple) hoặc modal (“must/should”) để diễn tả yêu cầu hiện tại.
+
+Sự thật hệ thống / source of truth → present simple (thường passive nếu muốn nhấn vào dữ liệu).
+
+Sự kiện test cụ thể đã xảy ra → past simple.
+
+Yêu cầu / chỉ thị → imperative (Please + V).
+
+Muốn lịch sự → “would like” thay cho “want”; “please” trước động từ cho mệnh lệnh lịch sự.
+
+### 

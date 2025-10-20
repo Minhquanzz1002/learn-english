@@ -24,10 +24,11 @@
 
 #### 📝 Ví dụ
 
-| Chủ động            | Bị động             |
-|---------------------|---------------------|
-| She cleans the room | The room is cleaned |
-| They build houses   | Houses are built    |
+| Chủ động             | Bị động                           |
+|----------------------|-----------------------------------|
+| She cleans the room  | The room is cleaned               |
+| They build houses    | Houses are built                  |
+| The data is returned | The SQL001 query returns no data. |
 
 ### 📌 Cách dùng
 
