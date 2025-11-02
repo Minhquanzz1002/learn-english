@@ -30,3 +30,4 @@ Nếu câu có dạng: `S + ___ + ...` ➡️ Loại đáp án chỉ có V<sub>i
 ---
 
 - meet with someone for [mục đích]: gặp để nhận được điều gì đó
+

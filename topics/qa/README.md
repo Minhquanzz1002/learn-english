@@ -179,4 +179,7 @@ Yêu cầu / chỉ thị → imperative (Please + V).
 
 Muốn lịch sự → “would like” thay cho “want”; “please” trước động từ cho mệnh lệnh lịch sự.
 
-### 
+### Confirm là đúng hay chưa?
+
+> Other API return JSON, but this API returns text/plain.
+> Please confirm whether the response type in the document is correct.
