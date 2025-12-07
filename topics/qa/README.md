@@ -182,4 +182,9 @@ Muốn lịch sự → “would like” thay cho “want”; “please” trư�
 ### Confirm là đúng hay chưa?
 
 > Other API return JSON, but this API returns text/plain.
-> Please confirm whether the response type in the document is correct.
+> Please confirm whether the response type in the document is correct.  
+
+According to the document, after the backup process is completed, SQL023 is executed to update the backup_execute table by looping through the results of SQL010.
+However, SQL023 uses only backup_no as the condition and does not include tb_name.
+As a result, the update values will always be overwritten by the data from the last value.
+Please check
