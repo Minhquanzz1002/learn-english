@@ -2,6 +2,10 @@
 
 > My current salary is 12 million VND per month.
 
+## What is your expected salary?
+
+> My expected salary is around 9 millions.
+
 ## Why do you expect this salary?
 
 ## How do you feel after six months of working here?
