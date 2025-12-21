@@ -24,3 +24,7 @@
 ## Tác giả
 
 - **MinhQuan**
+In QA 123, we confirmed that SQL008 of API A should be the same as SQL001 of API B.
+Since SQL001 is used for searching and SQL008 is used for verification and update, both SQL statements must be consistent.
+
+However, SQL001 has already been updated, so please update SQL008 accordingly to match SQL001.
