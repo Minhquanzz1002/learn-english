@@ -181,5 +181,5 @@ Muốn lịch sự → “would like” thay cho “want”; “please” trư�
 
 ### Confirm là đúng hay chưa?
 
-> Other API return JSON, but this API returns text/plain.
+> Other APIs return JSON, but this API returns text/plain.
 > Please confirm whether the response type in the document is correct.
