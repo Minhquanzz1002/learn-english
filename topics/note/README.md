@@ -11,6 +11,7 @@
 
 > My current salary is 12 million VND per month.
 
+> Six point one (sáu chấm một)
 ## What is your expected salary?
 
 > My expected salary is around 9 millions.
