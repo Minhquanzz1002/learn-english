@@ -7,6 +7,10 @@
 ## How old are you?
 > I am twenty four years old
 
+## What do you want from the company?
+
+> I want to learn more and improve my skills, especially technical skill, communication skills, problem solving skills.
+
 ## What is your current salary?
 
 > My current salary is 12 million VND per month.
