@@ -22,6 +22,8 @@
 
 ## Why do you expect this salary?
 
+> Because I have worked very hard and effectively. This is shown in my performance file.
+
 ## What have you done in the past six months working here?
 
 > In the past six months, I have worked as a Java Develop on the UCARO project.
