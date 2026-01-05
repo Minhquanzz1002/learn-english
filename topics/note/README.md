@@ -1,3 +1,6 @@
+## How old are your parents?
+> My father is fifty-five years old and my mother is fifty-two years old
+
 ## What is your current salary?
 
 > My current salary is 12 million VND per month.
