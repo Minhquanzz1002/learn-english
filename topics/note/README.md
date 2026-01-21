@@ -7,6 +7,9 @@
 ## What year were you born?
 > I was born in two thousand and two
 
+1971: one thousand and nine hundred seventy-one  
+1974: one thousand and nine hundred seventy-four
+
 ## How old are you?
 > I am twenty four years old
 
@@ -43,3 +46,17 @@
 > Thank you very much to the company, Mr Duong and Mr Onogawa for giving me the opportunity to work here.  
 > I feel grateful and motivated to continue learning and improving my skills.  
 > I hope I can contribute well to the company in the feature.
+
+## Have you graduated? Which university did you study at?
+
+> I graduated from the Industrial University of Ho Chi Minh, majoring in Software Engineering.
+
+## Tôi đã ... rồi
+
+> I have finished  
+> Tôi làm xong rồi  
+> I have done it.  
+> Tôi làm rồi  
+
+> Yes, I have  
+> No, I haven't yet
