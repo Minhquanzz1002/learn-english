@@ -8,6 +8,10 @@
 | Khẳng định | S + have/has + V<sub>3</sub>       |
 | Phủ định   | S + have/has + not + V<sub>3</sub> |
 | Nghi vấn   | Have/Has + S + V<sub>3</sub>       |
+| Câu hỏi    | Wh + have/has + S + V<sub>3</sub   |
+
+Câu hỏi:
+> How long have you worked here?
 
 ### 📌 Dạng bị động
 

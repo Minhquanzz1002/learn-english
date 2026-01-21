@@ -35,3 +35,11 @@
 ## How do you feel after six months of working here?
 
 > After six months of working here, I feel this is a professional IT environment. The equipment and systems fully support my daily work, and I have improved my technical skills a lot.
+
+## How long have you worked here?
+
+> I have worked here since February
+
+> Thank you very much to the company, Mr Duong and Mr Onogawa for giving me the opportunity to work here.  
+> I feel grateful and motivated to continue learning and improving my skills.  
+> I hope I can contribute well to the company in the feature.
