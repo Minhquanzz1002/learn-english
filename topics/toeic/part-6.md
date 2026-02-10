@@ -37,3 +37,4 @@ Nevertheless: tuy nhiên, do đó
 Alternatively: một cách khác
 Otherwise: nếu không thì...
 Regardless: bất kể
+Similarly: tương tự
