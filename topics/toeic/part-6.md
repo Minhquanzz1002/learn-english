@@ -36,4 +36,4 @@ Nếu câu có dạng: `S + ___ + ...` ➡️ Loại đáp án chỉ có V<sub>i
 Nevertheless: tuy nhiên, do đó
 Alternatively: một cách khác
 Otherwise: nếu không thì...
-
+Regardless: bất kể
