@@ -52,3 +52,32 @@ Khi có nhiều tính từ cùng miêu tả một danh từ, chúng ta phải tu
 ---
 
 Các đuôi tính từ thông dụng: `-able`, `-ible`, `-al`, `-ful`, `-less`, `-ive`, `-ous`, `-ic`, `-ical`, `-y`, `-en`, `-ish`, `-ed`, `-ing`
+
+## Tính từ sở hữu
+
+| Chủ ngữ | Tính từ sở hữu |
+|---------|----------------|
+| I       | my             |
+| You     | your           |
+| We      | us             |
+| They    | their          |
+| He      | his            |
+| She     | her            |
+| It      | its            |
+
+### 📌 Vị trí của tính từ sở hữu trong câu
+
+#### ✦ Trước danh từ.
+
+#### ✦ Trước tính từ + danh từ.
+
+> As a result of ___ many years leading media organizations, Ms.Ayo was selected for the Dowel Journalism Prize.  
+> A. she  
+> B. her ✅  
+> C. hers  
+> D. herself
+
+many years: adj + N
+
+#### ✦ Trước V<sub>ing</sub>.
+#### ✦ Trước danh từ.
