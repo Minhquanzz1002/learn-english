@@ -6,14 +6,14 @@
 
 > I haven't V<sub>3/ed<sub>
 
-I haven't finished the task yet
+I haven't finished the task yet. 
 I haven't seen this document.
 
 ### Tôi có ...
 
 > I have + N
 
-I have a idea.
+I have a idea.  
 I have a question.
 
 ---
