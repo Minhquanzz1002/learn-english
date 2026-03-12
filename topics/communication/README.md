@@ -1,5 +1,13 @@
 ## COMMUNICATION
 
+## Những câu phổ biến trong công việc
+
+### Tôi chưa ....
+
+> I haven't V<sub>3/ed<sub>
+
+I haven't finished the task yet
+I haven't seen this document.
 ---
 
 ### 📌 Dạng câu phổ biến trong giao tiếp
