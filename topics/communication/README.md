@@ -8,6 +8,14 @@
 
 I haven't finished the task yet
 I haven't seen this document.
+
+### Tôi có ...
+
+> I have + N
+
+I have a idea.
+I have a question.
+
 ---
 
 ### 📌 Dạng câu phổ biến trong giao tiếp
