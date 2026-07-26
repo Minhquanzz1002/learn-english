@@ -57,3 +57,12 @@ Có ba lý do chính:
 Em không muốn đưa ra một mốc thời gian cụ thể vì em nghĩ sẽ không thực tế.
 
 Điều em có thể cam kết là khi còn làm việc ở đây, em sẽ luôn có trách nhiệm với công việc, tiếp tục phát triển bản thân và đóng góp hết khả năng.
+
+#### Nếu được góp ý cho công ty thì em muốn góp ý gì?
+
+Hiện tại em chưa có góp ý gì lớn vì em thấy môi trường làm việc khá tốt.
+
+
+#### Có điều gì em chưa hài lòng không?
+
+Hiện tại em chưa có điều gì quá không hài lòng. Trong quá trình làm việc đôi lúc có áp lực về deadline hoặc thay đổi dự án, nhưng em nghĩ đó là đặc thù của công việc outsourcing và cũng giúp em trưởng thành hơn.
