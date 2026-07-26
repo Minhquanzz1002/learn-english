@@ -66,6 +66,10 @@ Hiện tại em chưa có góp ý gì lớn. Trong thời gian làm việc em th
 
 Hiện tại em chưa có điều gì quá không hài lòng. Trong quá trình làm việc đôi lúc có áp lực về deadline hoặc thay đổi dự án, nhưng em nghĩ đó là đặc thù của công việc outsourcing và cũng giúp em trưởng thành hơn.
 
+#### Tại sao em lại muốn tiếp tục làm việc tại công ty?
+
+Em muốn tiếp tục làm việc vì em thấy môi trường làm việc phù hợp với mình. Em có cơ hội học hỏi từ các anh/chị trong team, được tham gia nhiều dự án khác nhau và điều đó giúp em phát triển nhanh hơn so với kỳ vọng ban đầu.
+
 #### Kết thúc
 
 Em cảm ơn công ty đã tin tưởng. Em sẽ xem đây là động lực để tiếp tục cố gắng, phát triển bản thân và hoàn thành tốt công việc được giao.
