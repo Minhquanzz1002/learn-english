@@ -1,4 +1,4 @@
-> Em của trước khi vào công ty và em của hiện tại khác nhau ra sao?
+#### Em của trước khi vào công ty và em của hiện tại khác nhau ra sao?
 
 Em nghĩ điểm thay đổi lớn nhất là cách làm việc và tư duy trách nhiệm.
 
