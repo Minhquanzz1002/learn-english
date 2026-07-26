@@ -1,8 +1,8 @@
 #### Em của trước khi vào công ty và em của hiện tại khác nhau ra sao?
 
-Em nghĩ điểm thay đổi lớn nhất là cách làm việc và tư duy trách nhiệm.
+Em nghĩ điểm thay đổi lớn nhất là sự chủ động và khả năng thích nghi.
 
-
+Trong thời gian làm việc, em có cơ hội tham gia nhiều dự án với nhiều team và công nghệ khác nhau. Nhờ đó, em không còn ngại khi phải làm quen với môi trường mới như trước mà có thể chủ động tìm hiểu, thích nghi nhanh và tự tin hơn khi tiếp nhận những công việc mới.
 
 #### Em nghĩ công ty có nhận em lại không? Tại sao?
 
