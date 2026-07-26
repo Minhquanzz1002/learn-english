@@ -65,3 +65,9 @@ Hiện tại em chưa có góp ý gì lớn. Trong thời gian làm việc em th
 #### Có điều gì em chưa hài lòng không?
 
 Hiện tại em chưa có điều gì quá không hài lòng. Trong quá trình làm việc đôi lúc có áp lực về deadline hoặc thay đổi dự án, nhưng em nghĩ đó là đặc thù của công việc outsourcing và cũng giúp em trưởng thành hơn.
+
+#### Kết thúc
+
+Em cảm ơn công ty đã tin tưởng. Em sẽ xem đây là động lực để tiếp tục cố gắng, phát triển bản thân và hoàn thành tốt công việc được giao.
+
+Em cảm ơn công ty vì khoảng thời gian vừa qua. Em sẽ nghiêm túc tiếp nhận mọi góp ý và xem đây là kinh nghiệm để tiếp tục hoàn thiện bản thân trong tương lai.
