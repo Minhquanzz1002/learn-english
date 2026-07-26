@@ -37,9 +37,9 @@ Em nghĩ mình học và thích nghi khá tốt. Bằng chứng là trong 6 thá
 
 #### Mục tiêu ngắn hạn, dài hạn của em là gì?
 
-Ngắn hạn:
+Ngắn hạn: Trong ngắn hạn, em muốn củng cố nền tảng kỹ thuật và tích lũy thêm kinh nghiệm thực tế. Em mong được tham gia nhiều task có độ khó cao hơn để cải thiện khả năng phân tích, giải quyết vấn đề
 
-Dài hạn:
+Dài hạn: Về dài hạn, em mong muốn phát triển lên các cấp bậc cao hơn trong lộ trình kỹ sư của công ty. Em muốn có đủ năng lực để đảm nhận những phần việc khó hơn và đóng góp nhiều hơn cho dự án.
 
 #### Em có định gắn bó với công ty không?
 
