@@ -60,8 +60,7 @@ Em không muốn đưa ra một mốc thời gian cụ thể vì em nghĩ sẽ k
 
 #### Nếu được góp ý cho công ty thì em muốn góp ý gì?
 
-Hiện tại em chưa có góp ý gì lớn vì em thấy môi trường làm việc khá tốt.
-
+Hiện tại em chưa có góp ý gì lớn. Trong thời gian làm việc em thấy môi trường và quy trình của công ty khá phù hợp với em. Do em cũng mới có khoảng 1.5 năm kinh nghiệm nên em nghĩ mình vẫn đang ở giai đoạn học hỏi nhiều hơn là có đủ góc nhìn để đưa ra góp ý cho công ty.
 
 #### Có điều gì em chưa hài lòng không?
 
