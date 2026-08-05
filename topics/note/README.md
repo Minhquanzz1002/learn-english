@@ -1,3 +1,10 @@
+## Please introduce yourself
+
+> Hi everyone. My name is Quan. Nice to meet everyone.
+
+Easier to read
+> Hi everyone. My name is Quan. Nice to meet you all.
+
 ## 
 
 > I from Dong Thap province, a countryside
@@ -60,3 +67,39 @@
 
 > Yes, I have  
 > No, I haven't yet
+
+---
+
+## Tôi nghĩ chúng ta nên thiết kế theo cách này
+
+> I think we should design it this way.
+
+## Nhóm đồng ý
+
+> I agree with that
+
+## Nhóm không đồng ý
+
+Tôi chưa chắc về điều đó
+> I'm not sure about that.
+
+Không chắc
+> I'm not sure.
+
+## Hỏi để hiểu rõ
+
+> Could you explain that?
+
+## Nhờ lặp lại
+
+> Could you repeat that?
+
+## Xin ví dụ
+
+> Could you give an example?
+
+## Không chắc, xin vài giây suy nghĩ
+
+> I'm not sure. Give me a moment, please
+
+> Let me think about it.
