@@ -1,5 +1,7 @@
 # TOEIC Vocabulary
 
+## 🏢 Business & Company
+
 | Word           | Type       | Meaning                       | Topic              | Priority  | Status  |
 | -------------- | ---------- | ----------------------------- | ------------------ | --------- | ------- |
 | employee       | noun       | nhân viên                     | Business & Company | High      | Learned |
@@ -25,3 +27,18 @@
 | highway        | noun       | đường cao tốc                 | Road Travel        | High      | New     |
 | freeway        | noun       | đường cao tốc                 | Road Travel        | Medium    | New     |
 | roadway        | noun       | phần đường xe chạy            | Road Travel        | Medium    | New     |
+
+## ✈️ Travel & Transportation
+
+| Word          | Type      | Meaning                         | Topic            | Priority | Status |
+| ------------- | --------- | ------------------------------- | ---------------- |
+| itinerary     | noun      | lịch trình chuyến đi            | Road Travel      | High     | New    |
+| toll          | noun      | phí đường bộ                    | Road Travel      | High     | New    |
+| subway        | noun      | tàu điện ngầm                   | Transportation   | High     | New    |
+| accommodation | noun      | chỗ ở, nơi lưu trú              | Travel & Tourism | High     | New    |
+| scenic        | adjective | có phong cảnh đẹp               | Travel & Tourism | High     | New    |
+| cruise        | noun      | chuyến du lịch bằng tàu; đi tàu | Travel & Tourism | High     | New    |
+| sightseeing   | noun      | việc tham quan                  | Travel & Tourism | High     | New    |
+| transit       | noun      | phương tiện công cộng; quá cảnh | Transportation   | High     | New    |
+| railway       | noun      | đường sắt                       | Transportation   | High     | New    |
+| crosswalk     | noun      | vạch sang đường                 | Transportation   | High     | New    |
