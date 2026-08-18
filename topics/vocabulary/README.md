@@ -31,7 +31,7 @@
 ## ✈️ Travel & Transportation
 
 | Word          | Type      | Meaning                         | Topic            | Priority | Status |
-| ------------- | --------- | ------------------------------- | ---------------- |
+| ------------- | --------- | ------------------------------- | ---------------- | -------- | ------ |
 | itinerary     | noun      | lịch trình chuyến đi            | Road Travel      | High     | New    |
 | toll          | noun      | phí đường bộ                    | Road Travel      | High     | New    |
 | subway        | noun      | tàu điện ngầm                   | Transportation   | High     | New    |
@@ -42,3 +42,57 @@
 | transit       | noun      | phương tiện công cộng; quá cảnh | Transportation   | High     | New    |
 | railway       | noun      | đường sắt                       | Transportation   | High     | New    |
 | crosswalk     | noun      | vạch sang đường                 | Transportation   | High     | New    |
+
+## 🏨 Hotels & Restaurants
+
+| Word          | Type      | Meaning               | Topic                | Priority  | Status  |
+| ------------- | --------- | --------------------- | -------------------- | --------- | ------- |
+| amenity       | noun      | tiện nghi, tiện ích   | Hotels & Restaurants | High      | New     |
+| complimentary | adjective | miễn phí              | Hotels & Restaurants | High      | New     |
+| cuisine       | noun      | ẩm thực               | Hotels & Restaurants | Medium    | New     |
+| beverage      | noun      | đồ uống               | Hotels & Restaurants | High      | New     |
+| entree        | noun      | món chính             | Hotels & Restaurants | Medium    | New     |
+| appetizer     | noun      | món khai vị           | Hotels & Restaurants | Medium    | New     |
+| dessert       | noun      | món tráng miệng       | Hotels & Restaurants | High      | New     |
+| reservation   | noun      | sự đặt chỗ, đặt phòng | Hotels & Restaurants | Very High | Learned |
+| reserve       | noun      | đặt trước             | Hotels & Restaurants | Very High | New     |
+| receptionist  | noun      | nhân viên lễ tân      | Hotels & Restaurants | High      | New     |
+
+## 🛒 Shopping & Customer Service
+
+| Word          | Type      | Meaning                         | Topic            | Priority | Status |
+| ------------- | --------- | ------------------------------- | ---------------- | -------- | ------ |
+
+## 📅 Events & Schedules
+
+| Word          | Type      | Meaning                         | Topic            | Priority | Status |
+| ------------- | --------- | ------------------------------- | ---------------- | -------- | ------ |
+
+## 💰 Finance & Banking
+
+| Word          | Type      | Meaning                         | Topic            | Priority | Status |
+| ------------- | --------- | ------------------------------- | ---------------- | -------- | ------ |
+
+## 🏭 Manufacturing & Production
+
+| Word          | Type      | Meaning                         | Topic            | Priority | Status |
+| ------------- | --------- | ------------------------------- | ---------------- | -------- | ------ |
+
+## 📦 Shipping & Logistics
+
+| Word          | Type      | Meaning                         | Topic            | Priority | Status |
+| ------------- | --------- | ------------------------------- | ---------------- | -------- | ------ |
+
+## 🏢 Real Estate & Housing
+
+| Word          | Type      | Meaning                         | Topic            | Priority | Status |
+| ------------- | --------- | ------------------------------- | ---------------- | -------- | ------ |
+
+## 🏥 Health & Medical
+
+| Word          | Type      | Meaning                         | Topic            | Priority | Status |
+| ------------- | --------- | ------------------------------- | ---------------- | -------- | ------ |
+
+---
+
+END
