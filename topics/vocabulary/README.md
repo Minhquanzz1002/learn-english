@@ -45,18 +45,28 @@
 
 ## 🏨 Hotels & Restaurants
 
-| Word          | Type      | Meaning               | Topic                | Priority  | Status  |
-| ------------- | --------- | --------------------- | -------------------- | --------- | ------- |
-| amenity       | noun      | tiện nghi, tiện ích   | Hotels & Restaurants | High      | New     |
-| complimentary | adjective | miễn phí              | Hotels & Restaurants | High      | New     |
-| cuisine       | noun      | ẩm thực               | Hotels & Restaurants | Medium    | New     |
-| beverage      | noun      | đồ uống               | Hotels & Restaurants | High      | New     |
-| entree        | noun      | món chính             | Hotels & Restaurants | Medium    | New     |
-| appetizer     | noun      | món khai vị           | Hotels & Restaurants | Medium    | New     |
-| dessert       | noun      | món tráng miệng       | Hotels & Restaurants | High      | New     |
-| reservation   | noun      | sự đặt chỗ, đặt phòng | Hotels & Restaurants | Very High | Learned |
-| reserve       | noun      | đặt trước             | Hotels & Restaurants | Very High | New     |
-| receptionist  | noun      | nhân viên lễ tân      | Hotels & Restaurants | High      | New     |
+| Word          | Type      | Meaning                              | Topic                | Priority  | Status  |
+| ------------- | --------- | ------------------------------------ | -------------------- | --------- | ------- |
+| amenity       | noun      | tiện nghi, tiện ích                  | Hotels & Restaurants | High      | New     |
+| complimentary | adjective | miễn phí                             | Hotels & Restaurants | High      | New     |
+| cuisine       | noun      | ẩm thực                              | Hotels & Restaurants | Medium    | New     |
+| beverage      | noun      | đồ uống                              | Hotels & Restaurants | High      | New     |
+| entree        | noun      | món chính                            | Hotels & Restaurants | Medium    | New     |
+| appetizer     | noun      | món khai vị                          | Hotels & Restaurants | Medium    | New     |
+| dessert       | noun      | món tráng miệng                      | Hotels & Restaurants | High      | New     |
+| reservation   | noun      | sự đặt chỗ, đặt phòng                | Hotels & Restaurants | Very High | Learned |
+| reserve       | noun      | đặt trước                            | Hotels & Restaurants | Very High | New     |
+| receptionist  | noun      | nhân viên lễ tân                     | Hotels & Restaurants | High      | New     |
+| check-in      | noun      | thủ tục nhận phòng                   | Hotels & Restaurants | Very High | Learned |
+| check-out     | noun      | thủ tục trả phòng                    | Hotels & Restaurants | Very High | Learned |
+| vacancy       | noun      | phòng còn trống                      | Hotels & Restaurants | High      | New     |
+| occupancy     | noun      | tình trạng/số lượng phòng có người ở | Hotels & Restaurants | Medium    | New     |
+| suite         | noun      | phòng hạng sang                      | Hotels & Restaurants | High      | New     |
+| housekeeping  | noun      | dịch vụ dọn phòng                    | Hotels & Restaurants | High      | New     |
+| facility      | noun      | cơ sở vật chất/tiện ích              | Hotels & Restaurants | High      | New     |
+| laundry       | noun      | dịch vụ/việc giặt ủi                 | Hotels & Restaurants | Medium    | New     |
+| dish          | noun      | món ăn                               | Hotels & Restaurants | High      | New     |
+| portion       | noun      | khẩu phần                            | Hotels & Restaurants | Medium    | New     |
 
 ## 🛒 Shopping & Customer Service
 
