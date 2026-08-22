@@ -24,8 +24,8 @@
 | intersection   | noun       | giao lộ                       | Transportation     | High      | New     |
 | pedestrian     | noun       | người đi bộ                   | Transportation     | High      | New     |
 | platform       | noun       | sân ga                        | Transportation     | Very High | New     |
-| highway        | noun       | đường cao tốc                 | Road Travel        | High      | New     |
-| freeway        | noun       | đường cao tốc                 | Road Travel        | Medium    | New     |
+| highway        | noun       | đường cao tốc                 | Road Travel        | High      | Learned |
+| freeway        | noun       | đường cao tốc                 | Road Travel        | Medium    | Learned |
 | roadway        | noun       | phần đường xe chạy            | Road Travel        | Medium    | New     |
 
 ## ✈️ Travel & Transportation
@@ -70,13 +70,33 @@
 
 ## 🛒 Shopping & Customer Service
 
-| Word          | Type      | Meaning                         | Topic            | Priority | Status |
-| ------------- | --------- | ------------------------------- | ---------------- | -------- | ------ |
+| Word         | Type             | Meaning                    | Topic                       | Priority  | Status  |
+| ------------ | ---------------- | -------------------------- | --------------------------- | --------- | ------- |
+| retailer     | noun             | nhà bán lẻ                 | Shopping & Customer Service | High      | New     |
+| exchange     | noun, verb       | việc trả hàng, trả lại     | Shopping & Customer Service | High      | New     |
+| warranty     | noun             | bảo hành                   | Shopping & Customer Service | High      | New     |
+| complaint    | noun             | lời phàn nàn, khiếu nại    | Shopping & Customer Service | High      | New     |
+| cashier      | noun             | thu ngân                   | Shopping & Customer Service | High      | New     |
+| counter      | noun             | quầy                       | Shopping & Customer Service | High      | New     |
+| return       | noun, verb       | việc trả hàng, trả lại     | Shopping & Customer Service | Very High | New     |
+| order        | noun, verb       | đơn hàng, đặt hàng         | Shopping & Customer Service | Very High | Learned |
+| refund       | noun, verb       | khoản hoàn tiền; hoàn tiền | Shopping & Customer Service | Very High | Learned |
+| out of stock | adjective phrase | hết hàng                   | Shopping & Customer Service | Very High | New     |
 
 ## 📅 Events & Schedules
 
-| Word          | Type      | Meaning                         | Topic            | Priority | Status |
-| ------------- | --------- | ------------------------------- | ---------------- | -------- | ------ |
+| Word        | Type       | Meaning                        | Topic              | Priority  | Status  |
+| ----------- | ---------- | ------------------------------ | ------------------ | --------- | ------- |
+| event       | noun       | sự kiện                        | Events & Schedules | Very High | Learned |
+| schedule    | noun, verb | lịch trình, lên lịch           | Events & Schedules | Very High | Learned |
+| appointment | noun       | cuộc hẹn                       | Events & Schedules | Very High | New     |
+| meeting     | noun       | cuộc họp                       | Events & Schedules | Very High | Learned |
+| conference  | noun       | hội nghị                       | Events & Schedules | Very High | New     |
+| attendee    | noun       | người tham dự                  | Events & Schedules | High      | New     |
+| participant | noun       | người tham gia                 | Events & Schedules | High      | New     |
+| venue       | noun       | địa điểm tổ chức sự kiện       | Events & Schedules | Very High | New     |
+| session     | noun       | buổi, phiên                    | Events & Schedules | High      | Learned |
+| agenda      | noun       | chương trình/nội dung cuộc họp | Events & Schedules | Very High | New     |
 
 ## 💰 Finance & Banking
 
