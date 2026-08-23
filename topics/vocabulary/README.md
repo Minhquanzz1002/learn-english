@@ -45,28 +45,31 @@
 
 ## 🏨 Hotels & Restaurants
 
-| Word          | Type      | Meaning                              | Topic                | Priority  | Status  |
-| ------------- | --------- | ------------------------------------ | -------------------- | --------- | ------- |
-| amenity       | noun      | tiện nghi, tiện ích                  | Hotels & Restaurants | High      | New     |
-| complimentary | adjective | miễn phí                             | Hotels & Restaurants | High      | New     |
-| cuisine       | noun      | ẩm thực                              | Hotels & Restaurants | Medium    | New     |
-| beverage      | noun      | đồ uống                              | Hotels & Restaurants | High      | New     |
-| entree        | noun      | món chính                            | Hotels & Restaurants | Medium    | New     |
-| appetizer     | noun      | món khai vị                          | Hotels & Restaurants | Medium    | New     |
-| dessert       | noun      | món tráng miệng                      | Hotels & Restaurants | High      | New     |
-| reservation   | noun      | sự đặt chỗ, đặt phòng                | Hotels & Restaurants | Very High | Learned |
-| reserve       | noun      | đặt trước                            | Hotels & Restaurants | Very High | New     |
-| receptionist  | noun      | nhân viên lễ tân                     | Hotels & Restaurants | High      | New     |
-| check-in      | noun      | thủ tục nhận phòng                   | Hotels & Restaurants | Very High | Learned |
-| check-out     | noun      | thủ tục trả phòng                    | Hotels & Restaurants | Very High | Learned |
-| vacancy       | noun      | phòng còn trống                      | Hotels & Restaurants | High      | New     |
-| occupancy     | noun      | tình trạng/số lượng phòng có người ở | Hotels & Restaurants | Medium    | New     |
-| suite         | noun      | phòng hạng sang                      | Hotels & Restaurants | High      | New     |
-| housekeeping  | noun      | dịch vụ dọn phòng                    | Hotels & Restaurants | High      | New     |
-| facility      | noun      | cơ sở vật chất/tiện ích              | Hotels & Restaurants | High      | New     |
-| laundry       | noun      | dịch vụ/việc giặt ủi                 | Hotels & Restaurants | Medium    | New     |
-| dish          | noun      | món ăn                               | Hotels & Restaurants | High      | New     |
-| portion       | noun      | khẩu phần                            | Hotels & Restaurants | Medium    | New     |
+| Word          | Type       | Meaning                                            | Topic                | Priority  | Status  |
+| ------------- | ---------- | -------------------------------------------------- | -------------------- | --------- | ------- |
+| amenity       | noun       | tiện nghi, tiện ích                                | Hotels & Restaurants | High      | New     |
+| complimentary | adjective  | miễn phí                                           | Hotels & Restaurants | High      | New     |
+| cuisine       | noun       | ẩm thực                                            | Hotels & Restaurants | Medium    | New     |
+| beverage      | noun       | đồ uống                                            | Hotels & Restaurants | High      | New     |
+| entree        | noun       | món chính                                          | Hotels & Restaurants | Medium    | New     |
+| appetizer     | noun       | món khai vị                                        | Hotels & Restaurants | Medium    | New     |
+| dessert       | noun       | món tráng miệng                                    | Hotels & Restaurants | High      | New     |
+| reservation   | noun       | sự đặt chỗ, đặt phòng                              | Hotels & Restaurants | Very High | Learned |
+| reserve       | noun       | đặt trước                                          | Hotels & Restaurants | Very High | New     |
+| receptionist  | noun       | nhân viên lễ tân                                   | Hotels & Restaurants | High      | New     |
+| check-in      | noun       | thủ tục nhận phòng                                 | Hotels & Restaurants | Very High | Learned |
+| check-out     | noun       | thủ tục trả phòng                                  | Hotels & Restaurants | Very High | Learned |
+| vacancy       | noun       | phòng còn trống                                    | Hotels & Restaurants | High      | New     |
+| occupancy     | noun       | tình trạng/số lượng phòng có người ở               | Hotels & Restaurants | Medium    | New     |
+| suite         | noun       | phòng hạng sang                                    | Hotels & Restaurants | High      | New     |
+| housekeeping  | noun       | dịch vụ dọn phòng                                  | Hotels & Restaurants | High      | New     |
+| facility      | noun       | cơ sở vật chất/tiện ích                            | Hotels & Restaurants | High      | New     |
+| laundry       | noun       | dịch vụ/việc giặt ủi                               | Hotels & Restaurants | Medium    | New     |
+| dish          | noun       | món ăn                                             | Hotels & Restaurants | High      | New     |
+| portion       | noun       | khẩu phần                                          | Hotels & Restaurants | Medium    | New     |
+| sauce         | noun       | nước sốt                                           | Hotels & Restaurants | Medium    | New     |
+| shred         | noun, verb | (n) mảnh vụn, sợi nhỏ</br>(v)xé vụn, cắt thành sợi | Hotels & Restaurants | Low       | New     |
+| melt          | verb       | làm tan chảy                                       | Hotels & Restaurants | Medium    | New     |
 
 ## 🛒 Shopping & Customer Service
 
@@ -100,8 +103,18 @@
 
 ## 💰 Finance & Banking
 
-| Word          | Type      | Meaning                         | Topic            | Priority | Status |
-| ------------- | --------- | ------------------------------- | ---------------- | -------- | ------ |
+| Word        | Type       | Meaning              | Topic             | Priority  | Status  |
+| ----------- | ---------- | -------------------- | ----------------- | --------- | ------- |
+| account     | noun       | tài khoản            | Finance & Banking | Very High | Learned |
+| deposit     | noun, verb | tiền gửi, gửi tiền   | Finance & Banking | Very High | New     |
+| withdraw    | verb       | rút tiền             | Finance & Banking | Very High | Learned |
+| balance     | noun       | số dư                | Finance & Banking | Very High | New     |
+| transaction | noun       | giao dịch            | Finance & Banking | Very High | Learned |
+| transfer    | noun, verb | chuyển khoản, chuyển | Finance & Banking | Very High | New     |
+| fee         | noun       | khoản phí            | Finance & Banking | Very High | New     |
+| loan        | noun       | khoản vay            | Finance & Banking | Very High | New     |
+| interest    | noun       | tiền lãi, lãi suất   | Finance & Banking | Very High | New     |
+| payment     | noun       | khoản thanh toán     | Finance & Banking | Very High | Learned |
 
 ## 🏭 Manufacturing & Production
 
