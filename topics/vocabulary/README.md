@@ -85,6 +85,7 @@
 | order        | noun, verb       | đơn hàng, đặt hàng         | Shopping & Customer Service | Very High | Learned |
 | refund       | noun, verb       | khoản hoàn tiền; hoàn tiền | Shopping & Customer Service | Very High | Learned |
 | out of stock | adjective phrase | hết hàng                   | Shopping & Customer Service | Very High | New     |
+| defective    | adjective        | bị lỗi                     | Shopping & Customer Service | Very High | New     |
 
 ## 📅 Events & Schedules
 
@@ -103,18 +104,28 @@
 
 ## 💰 Finance & Banking
 
-| Word        | Type       | Meaning              | Topic             | Priority  | Status  |
-| ----------- | ---------- | -------------------- | ----------------- | --------- | ------- |
-| account     | noun       | tài khoản            | Finance & Banking | Very High | Learned |
-| deposit     | noun, verb | tiền gửi, gửi tiền   | Finance & Banking | Very High | New     |
-| withdraw    | verb       | rút tiền             | Finance & Banking | Very High | Learned |
-| balance     | noun       | số dư                | Finance & Banking | Very High | New     |
-| transaction | noun       | giao dịch            | Finance & Banking | Very High | Learned |
-| transfer    | noun, verb | chuyển khoản, chuyển | Finance & Banking | Very High | New     |
-| fee         | noun       | khoản phí            | Finance & Banking | Very High | New     |
-| loan        | noun       | khoản vay            | Finance & Banking | Very High | New     |
-| interest    | noun       | tiền lãi, lãi suất   | Finance & Banking | Very High | New     |
-| payment     | noun       | khoản thanh toán     | Finance & Banking | Very High | Learned |
+| Word        | Type       | Meaning                  | Topic             | Priority  | Status  |
+| ----------- | ---------- | ------------------------ | ----------------- | --------- | ------- |
+| account     | noun       | tài khoản                | Finance & Banking | Very High | Learned |
+| deposit     | noun, verb | tiền gửi, gửi tiền       | Finance & Banking | Very High | New     |
+| withdraw    | verb       | rút tiền                 | Finance & Banking | Very High | Learned |
+| balance     | noun       | số dư                    | Finance & Banking | Very High | New     |
+| transaction | noun       | giao dịch                | Finance & Banking | Very High | Learned |
+| transfer    | noun, verb | chuyển khoản, chuyển     | Finance & Banking | Very High | New     |
+| fee         | noun       | khoản phí                | Finance & Banking | Very High | New     |
+| loan        | noun       | khoản vay                | Finance & Banking | Very High | New     |
+| interest    | noun       | tiền lãi, lãi suất       | Finance & Banking | Very High | New     |
+| payment     | noun       | khoản thanh toán         | Finance & Banking | Very High | Learned |
+| borrow      | verb       | vay mượn                 | Finance & Banking | Very High | New     |
+| lend        | verb       | cho vay, cho mượn        | Finance & Banking | Very High | New     |
+| credit      | noun       | tín dụng, khoản tín dụng | Finance & Banking | Very High | Learned |
+| debit       | noun       | ghi nợ, thẻ ghi nợ       | Finance & Banking | High      | Learned |
+| credit card | noun       | thẻ tín dụng             | Finance & Banking | Very High | Learned |
+| debit card  | noun       | thẻ ghi nợ               | Finance & Banking | Very High | Learned |
+| mortgage    | noun       | khoản vay thế chấp       | Finance & Banking | High      | New     |
+| salary      | noun       | tiền lương               | Finance & Banking | Very High | Learned |
+| income      | noun       | thu nhập                 | Finance & Banking | Very High | New     |
+| expense     | noun       | chi phí, khoản chi       | Finance & Banking | Very High | New     |
 
 ## 🏭 Manufacturing & Production
 
