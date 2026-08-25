@@ -104,33 +104,45 @@
 
 ## 💰 Finance & Banking
 
-| Word        | Type       | Meaning                  | Topic             | Priority  | Status  |
-| ----------- | ---------- | ------------------------ | ----------------- | --------- | ------- |
-| account     | noun       | tài khoản                | Finance & Banking | Very High | Learned |
-| deposit     | noun, verb | tiền gửi, gửi tiền       | Finance & Banking | Very High | New     |
-| withdraw    | verb       | rút tiền                 | Finance & Banking | Very High | Learned |
-| balance     | noun       | số dư                    | Finance & Banking | Very High | New     |
-| transaction | noun       | giao dịch                | Finance & Banking | Very High | Learned |
-| transfer    | noun, verb | chuyển khoản, chuyển     | Finance & Banking | Very High | New     |
-| fee         | noun       | khoản phí                | Finance & Banking | Very High | New     |
-| loan        | noun       | khoản vay                | Finance & Banking | Very High | New     |
-| interest    | noun       | tiền lãi, lãi suất       | Finance & Banking | Very High | New     |
-| payment     | noun       | khoản thanh toán         | Finance & Banking | Very High | Learned |
-| borrow      | verb       | vay mượn                 | Finance & Banking | Very High | New     |
-| lend        | verb       | cho vay, cho mượn        | Finance & Banking | Very High | New     |
-| credit      | noun       | tín dụng, khoản tín dụng | Finance & Banking | Very High | Learned |
-| debit       | noun       | ghi nợ, thẻ ghi nợ       | Finance & Banking | High      | Learned |
-| credit card | noun       | thẻ tín dụng             | Finance & Banking | Very High | Learned |
-| debit card  | noun       | thẻ ghi nợ               | Finance & Banking | Very High | Learned |
-| mortgage    | noun       | khoản vay thế chấp       | Finance & Banking | High      | New     |
-| salary      | noun       | tiền lương               | Finance & Banking | Very High | Learned |
-| income      | noun       | thu nhập                 | Finance & Banking | Very High | New     |
-| expense     | noun       | chi phí, khoản chi       | Finance & Banking | Very High | New     |
+| Word            | Type             | Meaning                  | Topic             | Priority  | Status  |
+| --------------- | ---------------- | ------------------------ | ----------------- | --------- | ------- |
+| account         | noun             | tài khoản                | Finance & Banking | Very High | Learned |
+| deposit         | noun, verb       | tiền gửi, gửi tiền       | Finance & Banking | Very High | New     |
+| withdraw        | verb             | rút tiền                 | Finance & Banking | Very High | Learned |
+| balance         | noun             | số dư                    | Finance & Banking | Very High | New     |
+| transaction     | noun             | giao dịch                | Finance & Banking | Very High | Learned |
+| transfer        | noun, verb       | chuyển khoản, chuyển     | Finance & Banking | Very High | New     |
+| fee             | noun             | khoản phí                | Finance & Banking | Very High | New     |
+| loan            | noun             | khoản vay                | Finance & Banking | Very High | New     |
+| interest        | noun             | tiền lãi, lãi suất       | Finance & Banking | Very High | New     |
+| payment         | noun             | khoản thanh toán         | Finance & Banking | Very High | Learned |
+| borrow          | verb             | vay mượn                 | Finance & Banking | Very High | New     |
+| lend            | verb             | cho vay, cho mượn        | Finance & Banking | Very High | New     |
+| credit          | noun             | tín dụng, khoản tín dụng | Finance & Banking | Very High | Learned |
+| debit           | noun             | ghi nợ, thẻ ghi nợ       | Finance & Banking | High      | Learned |
+| credit card     | noun             | thẻ tín dụng             | Finance & Banking | Very High | Learned |
+| debit card      | noun             | thẻ ghi nợ               | Finance & Banking | Very High | Learned |
+| mortgage        | noun             | khoản vay thế chấp       | Finance & Banking | High      | New     |
+| salary          | noun             | tiền lương               | Finance & Banking | Very High | Learned |
+| income          | noun             | thu nhập                 | Finance & Banking | Very High | New     |
+| expense         | noun             | chi phí, khoản chi       | Finance & Banking | Very High | New     |
+| in advance      | adverbial phrase | trước, trước thời hạn    | Finance & Banking | Very High | New     |
+| advance payment | noun             | khoản thanh toán trước   | Finance & Banking | High      | New     |
 
-## 🏭 Manufacturing & Production
+## 🏭 **Manufacturing & Production**
 
-| Word          | Type      | Meaning                         | Topic            | Priority | Status |
-| ------------- | --------- | ------------------------------- | ---------------- | -------- | ------ |
+| Word        | Type | Meaning                          | Topic                      | Priority  | Status  |
+| ----------- | ---- | -------------------------------- | -------------------------- | --------- | ------- |
+| manufacture | verb | sản xuất, chế tạo                | Manufacturing & Production | Very High | New     |
+| production  | noun | sự sản xuất / quá trình sản xuất | Manufacturing & Production | Very High | Learned |
+| product     | noun | sản phẩm                         | Manufacturing & Production | Very High | Learned |
+| factory     | noun | nhà máy                          | Manufacturing & Production | Very High | Learned |
+| equipment   | noun | thiết bị                         | Manufacturing & Production | Very High | New     |
+| machine     | noun | máy móc                          | Manufacturing & Production | Very High | Learned |
+| assembly    | noun | sự lắp ráp                       | Manufacturing & Production | High      | New     |
+| process     | noun | quy trình                        | Manufacturing & Production | Very High | Learned |
+| material    | noun | nguyên vật liệu                  | Manufacturing & Production | Very High | Learned |
+| component   | noun | linh kiện / bộ phận              | Manufacturing & Production | Very High | Learned |
 
 ## 📦 Shipping & Logistics
 
