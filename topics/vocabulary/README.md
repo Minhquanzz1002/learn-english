@@ -146,8 +146,18 @@
 
 ## 📦 Shipping & Logistics
 
-| Word          | Type      | Meaning                         | Topic            | Priority | Status |
-| ------------- | --------- | ------------------------------- | ---------------- | -------- | ------ |
+| Word        | Type | Meaning                              | Topic                | Priority  | Status |
+| ----------- | ---- | ------------------------------------ | -------------------- | --------- | ------ |
+| shipment    | noun | lô hàng, hàng được vận chuyển        | Shipping & Logistics | Very High | New    |
+| shipping    | noun | việc vận chuyển hàng                 | Shipping & Logistics | Very High | New    |
+| deliver     | verb | giao hàng                            | Shipping & Logistics | Very High | New    |
+| delivery    | noun | việc giao hàng                       | Shipping & Logistics | Very High | New    |
+| warehouse   | noun | nhà kho                              | Shipping & Logistics | Very High | New    |
+| package     | noun | kiện hàng, gói hàng                  | Shipping & Logistics | Very High | New    |
+| destination | noun | điểm đến                             | Shipping & Logistics | Very High | New    |
+| carrier     | noun | đơn vị / người vận chuyển            | Shipping & Logistics | Very High | New    |
+| freight     | noun | hàng hóa vận chuyển, cước vận chuyển | Shipping & Logistics | Very High | New    |
+| cargo       | noun | hàng hóa vận chuyển                  | Shipping & Logistics | High      | New    |
 
 ## 🏢 Real Estate & Housing
 
