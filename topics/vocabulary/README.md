@@ -161,8 +161,18 @@
 
 ## 🏢 Real Estate & Housing
 
-| Word          | Type      | Meaning                         | Topic            | Priority | Status |
-| ------------- | --------- | ------------------------------- | ---------------- | -------- | ------ |
+| Word         | Type       | Meaning               | Topic                 | Priority  | Status  |
+| ------------ | ---------- | --------------------- | --------------------- | --------- | ------- |
+| property     | noun       | bất động sản, tài sản | Real Estate & Housing | Very High | New     |
+| rent         | noun, verb | tiền thuê, thuê       | Real Estate & Housing | Very High | Learned |
+| lease        | noun, verb | hợp đồng thuê, thuê   | Real Estate & Housing | Very High | New     |
+| tenant       | noun       | người thuê nhà        | Real Estate & Housing | High      | New     |
+| landlord     | noun       | chủ nhà               | Real Estate & Housing | High      | New     |
+| apartment    | noun       | căn hộ                | Real Estate & Housing | Very High | New     |
+| commercial   | adjective  | thuộc về thương mại   | Real Estate & Housing | High      | New     |
+| real estate  | noun       | bất động sản          | Real Estate & Housing | Very High | New     |
+| neighborhood | noun       | khu dân cư, khu phố   | Real Estate & Housing | High      | New     |
+| available    | adjective  | có sẵn, còn trống     | Real Estate & Housing | Very High | New     |
 
 ## 🏥 Health & Medical
 
