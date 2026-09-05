@@ -176,8 +176,18 @@
 
 ## 🏥 Health & Medical
 
-| Word          | Type      | Meaning                         | Topic            | Priority | Status |
-| ------------- | --------- | ------------------------------- | ---------------- | -------- | ------ |
+| Word         | Type | Meaning                    | Topic            | Priority  | Status  |
+| ------------ | ---- | -------------------------- | ---------------- | --------- | ------- |
+| patient      | noun | bệnh nhân                  | Health & Medical | Very High | New     |
+| symptom      | noun | triệu chứng                | Health & Medical | Very High | New     |
+| treatment    | noun | phương pháp, việc điều trị | Health & Medical | Very High | New     |
+| medicine     | noun | thuốc                      | Health & Medical | Very High | New     |
+| prescription | noun | đơn thuốc                  | Health & Medical | High      | New     |
+| pharmacy     | noun | nhà thuốc                  | Health & Medical | High      | New     |
+| clinic       | noun | phòng khám                 | Health & Medical | High      | New     |
+| examine      | verb | khám, kiểm tra             | Health & Medical | High      | New     |
+| diagnosis    | noun | sự chuẩn đoán              | Health & Medical | High      | New     |
+| insurance    | noun | bảo hiểm                   | Health & Medical | Very High | Learned |
 
 ---
 
