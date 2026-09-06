@@ -30,18 +30,28 @@
 
 ## ✈️ Travel & Transportation
 
-| Word          | Type      | Meaning                         | Topic            | Priority | Status |
-| ------------- | --------- | ------------------------------- | ---------------- | -------- | ------ |
-| itinerary     | noun      | lịch trình chuyến đi            | Road Travel      | High     | New    |
-| toll          | noun      | phí đường bộ                    | Road Travel      | High     | New    |
-| subway        | noun      | tàu điện ngầm                   | Transportation   | High     | New    |
-| accommodation | noun      | chỗ ở, nơi lưu trú              | Travel & Tourism | High     | New    |
-| scenic        | adjective | có phong cảnh đẹp               | Travel & Tourism | High     | New    |
-| cruise        | noun      | chuyến du lịch bằng tàu; đi tàu | Travel & Tourism | High     | New    |
-| sightseeing   | noun      | việc tham quan                  | Travel & Tourism | High     | New    |
-| transit       | noun      | phương tiện công cộng; quá cảnh | Transportation   | High     | New    |
-| railway       | noun      | đường sắt                       | Transportation   | High     | New    |
-| crosswalk     | noun      | vạch sang đường                 | Transportation   | High     | New    |
+| Word              | Type        | Meaning                         | Topic            | Priority | Status  |
+| ----------------- | ----------- | ------------------------------- | ---------------- | -------- | ------- |
+| itinerary         | noun        | lịch trình chuyến đi            | Road Travel      | High     | New     |
+| toll              | noun        | phí đường bộ                    | Road Travel      | High     | New     |
+| subway            | noun        | tàu điện ngầm                   | Transportation   | High     | New     |
+| accommodation     | noun        | chỗ ở, nơi lưu trú              | Travel & Tourism | High     | New     |
+| scenic            | adjective   | có phong cảnh đẹp               | Travel & Tourism | High     | New     |
+| cruise            | noun        | chuyến du lịch bằng tàu; đi tàu | Travel & Tourism | High     | New     |
+| sightseeing       | noun        | việc tham quan                  | Travel & Tourism | High     | New     |
+| transit           | noun        | phương tiện công cộng; quá cảnh | Transportation   | High     | New     |
+| railway           | noun        | đường sắt                       | Transportation   | High     | New     |
+| crosswalk         | noun        | vạch sang đường                 | Transportation   | High     | New     |
+| traffic jam       | noun        | kẹt xe                          | Transportation   | High     | New     |
+| packing lot       | noun        | bãi đỗ xe                       | Transportation   | High     | New     |
+| ticket booth      | noun        | quầy bán vé                     | Transportation   | High     | New     |
+| one-way           | adjective   | một chiều                       | Transportation   | High     | New     |
+| round trip        | noun        | chuyến đi khứ hồi               | Transportation   | High     | New     |
+| direct flight     | noun phrase | chuyến bay thẳng                | Transportation   | High     | New     |
+| connecting flight | noun phrase | chuyến bay nối chuyến           | Transportation   | High     | New     |
+| arrival time      | noun phrase | giờ đến                         | Transportation   | High     | Learned |
+| departure time    | noun phrase | giờ khởi hành                   | Transportation   | High     | Learned |
+| vehicle           | noun        | phương tiện, xe                 | Transportation   | High     | Learned |
 
 ## 🏨 Hotels & Restaurants
 
@@ -129,7 +139,7 @@
 | in advance      | adverbial phrase | trước, trước thời hạn    | Finance & Banking | Very High | New     |
 | advance payment | noun             | khoản thanh toán trước   | Finance & Banking | High      | New     |
 
-## 🏭 **Manufacturing & Production**
+## 🏭 Manufacturing & Production
 
 | Word        | Type | Meaning                          | Topic                      | Priority  | Status  |
 | ----------- | ---- | -------------------------------- | -------------------------- | --------- | ------- |
@@ -146,18 +156,18 @@
 
 ## 📦 Shipping & Logistics
 
-| Word        | Type | Meaning                              | Topic                | Priority  | Status |
-| ----------- | ---- | ------------------------------------ | -------------------- | --------- | ------ |
-| shipment    | noun | lô hàng, hàng được vận chuyển        | Shipping & Logistics | Very High | New    |
-| shipping    | noun | việc vận chuyển hàng                 | Shipping & Logistics | Very High | New    |
-| deliver     | verb | giao hàng                            | Shipping & Logistics | Very High | New    |
-| delivery    | noun | việc giao hàng                       | Shipping & Logistics | Very High | New    |
-| warehouse   | noun | nhà kho                              | Shipping & Logistics | Very High | New    |
-| package     | noun | kiện hàng, gói hàng                  | Shipping & Logistics | Very High | New    |
-| destination | noun | điểm đến                             | Shipping & Logistics | Very High | New    |
-| carrier     | noun | đơn vị / người vận chuyển            | Shipping & Logistics | Very High | New    |
-| freight     | noun | hàng hóa vận chuyển, cước vận chuyển | Shipping & Logistics | Very High | New    |
-| cargo       | noun | hàng hóa vận chuyển                  | Shipping & Logistics | High      | New    |
+| Word        | Type | Meaning                              | Topic                | Priority  | Status  |
+| ----------- | ---- | ------------------------------------ | -------------------- | --------- | ------- |
+| shipment    | noun | lô hàng, hàng được vận chuyển        | Shipping & Logistics | Very High | New     |
+| shipping    | noun | việc vận chuyển hàng                 | Shipping & Logistics | Very High | New     |
+| deliver     | verb | giao hàng                            | Shipping & Logistics | Very High | New     |
+| delivery    | noun | việc giao hàng                       | Shipping & Logistics | Very High | New     |
+| warehouse   | noun | nhà kho                              | Shipping & Logistics | Very High | New     |
+| package     | noun | kiện hàng, gói hàng                  | Shipping & Logistics | Very High | New     |
+| destination | noun | điểm đến                             | Shipping & Logistics | Very High | Learned |
+| carrier     | noun | đơn vị / người vận chuyển            | Shipping & Logistics | Very High | New     |
+| freight     | noun | hàng hóa vận chuyển, cước vận chuyển | Shipping & Logistics | Very High | New     |
+| cargo       | noun | hàng hóa vận chuyển                  | Shipping & Logistics | High      | New     |
 
 ## 🏢 Real Estate & Housing
 
