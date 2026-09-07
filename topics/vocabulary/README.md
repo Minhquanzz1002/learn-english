@@ -156,18 +156,28 @@
 
 ## 📦 Shipping & Logistics
 
-| Word        | Type | Meaning                              | Topic                | Priority  | Status  |
-| ----------- | ---- | ------------------------------------ | -------------------- | --------- | ------- |
-| shipment    | noun | lô hàng, hàng được vận chuyển        | Shipping & Logistics | Very High | New     |
-| shipping    | noun | việc vận chuyển hàng                 | Shipping & Logistics | Very High | New     |
-| deliver     | verb | giao hàng                            | Shipping & Logistics | Very High | New     |
-| delivery    | noun | việc giao hàng                       | Shipping & Logistics | Very High | New     |
-| warehouse   | noun | nhà kho                              | Shipping & Logistics | Very High | New     |
-| package     | noun | kiện hàng, gói hàng                  | Shipping & Logistics | Very High | New     |
-| destination | noun | điểm đến                             | Shipping & Logistics | Very High | Learned |
-| carrier     | noun | đơn vị / người vận chuyển            | Shipping & Logistics | Very High | New     |
-| freight     | noun | hàng hóa vận chuyển, cước vận chuyển | Shipping & Logistics | Very High | New     |
-| cargo       | noun | hàng hóa vận chuyển                  | Shipping & Logistics | High      | New     |
+| Word             | Type      | Meaning                              | Topic                | Priority  | Status  |
+| ---------------- | --------- | ------------------------------------ | -------------------- | --------- | ------- |
+| shipment         | noun      | lô hàng, hàng được vận chuyển        | Shipping & Logistics | Very High | New     |
+| shipping         | noun      | việc vận chuyển hàng                 | Shipping & Logistics | Very High | Learned |
+| deliver          | verb      | giao hàng                            | Shipping & Logistics | Very High | New     |
+| delivery         | noun      | việc giao hàng                       | Shipping & Logistics | Very High | New     |
+| warehouse        | noun      | nhà kho                              | Shipping & Logistics | Very High | New     |
+| package          | noun      | kiện hàng, gói hàng                  | Shipping & Logistics | Very High | New     |
+| destination      | noun      | điểm đến                             | Shipping & Logistics | Very High | Learned |
+| carrier          | noun      | đơn vị / người vận chuyển            | Shipping & Logistics | Very High | New     |
+| freight          | noun      | hàng hóa vận chuyển, cước vận chuyển | Shipping & Logistics | Very High | New     |
+| cargo            | noun      | hàng hóa vận chuyển                  | Shipping & Logistics | High      | New     |
+| dispatch         | noun/verb | gửi đi, xuất hàng                    | Shipping & Logistics | Very High | New     |
+| consignment      | noun      | lô hàng được gửi                     | Shipping & Logistics | High      | New     |
+| recipient        | noun      | người nhận                           | Shipping & Logistics | Very High | New     |
+| sender           | noun      | người gửi                            | Shipping & Logistics | High      | Learned |
+| tracking         | noun      | việc theo dõi hàng                   | Shipping & Logistics | Very High | New     |
+| tracking number  | noun      | mã vận đơn                           | Shipping & Logistics | Very High | New     |
+| shipping address | noun      | địa chỉ giao hàng                    | Shipping & Logistics | Very High | Learned |
+| on time          | noun      | đúng giờ, đúng hạn                   | Shipping & Logistics | Very High | New     |
+| delay            | noun/verb | sự trì hoãn, trì hoãn                | Shipping & Logistics | Very High | New     |
+| delivery date    | noun      | ngày giao hàng                       | Shipping & Logistics | Very High | Learned |
 
 ## 🏢 Real Estate & Housing
 
