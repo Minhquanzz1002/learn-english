@@ -2,56 +2,67 @@
 
 ## 🏢 Business & Company
 
-| Word           | Type       | Meaning                       | Topic              | Priority  | Status  |
-| -------------- | ---------- | ----------------------------- | ------------------ | --------- | ------- |
-| employee       | noun       | nhân viên                     | Business & Company | High      | Learned |
-| departure      | noun       | sự khởi hành                  | Airport & Flight   | Very High | New     |
-| depart         | noun       | việc đến nơi                  | Airport & Flight   | High      | New     |
-| arrival        | noun       | sự đến nơi                    | Airport & Flight   | Very High | New     |
-| terminal       | noun       | nhà ga                        | Airport & Flight   | Very High | New     |
-| passenger      | noun       | hành khách                    | Airport & Flight   | Very High | New     |
-| flight         | noun       | chuyến bay                    | Airport & Flight   | Very High | New     |
-| luggage        | noun       | hành lý                       | Airport & Flight   | Very High | New     |
-| board          | verb       | lên máy bay/tàu               | Airport & Flight   | Very High | New     |
-| boarding       | noun       | việc lên máy bay              | Airport & Flight   | High      | New     |
-| carry-on       | noun       | hành lý xách tay              | Airport & Flight   | High      | New     |
-| transportation | noun       | phương tiện giao thông        | Transportation     | Very High | New     |
-| track          | noun       | đường ray                     | Transportation     | Medium    | New     |
-| fare           | noun       | giá vé                        | Transportation     | Very High | New     |
-| commute        | noun, verb | đi lại hằng ngày              | Transportation     | High      | New     |
-| commuter       | noun       | người đi làm/ đ học hằng ngày | Transportation     | High      | New     |
-| congestion     | noun       | ùn tắc                        | Transportation     | Very High | New     |
-| intersection   | noun       | giao lộ                       | Transportation     | High      | New     |
-| pedestrian     | noun       | người đi bộ                   | Transportation     | High      | New     |
-| platform       | noun       | sân ga                        | Transportation     | Very High | New     |
-| highway        | noun       | đường cao tốc                 | Road Travel        | High      | Learned |
-| freeway        | noun       | đường cao tốc                 | Road Travel        | Medium    | Learned |
-| roadway        | noun       | phần đường xe chạy            | Road Travel        | Medium    | New     |
+| Word       | Type | Meaning                                    | Topic              | Priority  | Status  |
+| ---------- | ---- | ------------------------------------------ | ------------------ | --------- | ------- |
+| employee   | noun | nhân viên                                  | Business & Company | High      | Learned |
+| employer   | noun | người sử dụng lao động, công ty tuyển dụng | Business & Company | Very High | New     |
+| department | noun | phòng ban                                  | Business & Company | Very High | Learned |
+| manager    | noun | quản lý                                    | Business & Company | Very High | Learned |
+| supervisor | noun | người giám sát, cấp trên trực tiếp         | Business & Company | High      | Learned |
+| colleague  | noun | đồng nghiệp                                | Business & Company | Very High | Learned |
+| position   | noun | vị trí công việc                           | Business & Company | Very High | New     |
+| applicant  | noun | ứng viên, người nộp đơn                    | Business & Company | Very High | New     |
+| hire       | verb | tuyển dụng                                 | Business & Company | Very High | New     |
+| promote    | verb | thăng chức                                 | Business & Company | High      | New     |
+| resign     | verb | từ chức, nghỉ việc                         | Business & Company | High      | New     |
+| retire     | verb | nghỉ hưu                                   | Business & Company | High      | New     |
 
 ## ✈️ Travel & Transportation
 
-| Word              | Type        | Meaning                         | Topic            | Priority | Status  |
-| ----------------- | ----------- | ------------------------------- | ---------------- | -------- | ------- |
-| itinerary         | noun        | lịch trình chuyến đi            | Road Travel      | High     | New     |
-| toll              | noun        | phí đường bộ                    | Road Travel      | High     | New     |
-| subway            | noun        | tàu điện ngầm                   | Transportation   | High     | New     |
-| accommodation     | noun        | chỗ ở, nơi lưu trú              | Travel & Tourism | High     | New     |
-| scenic            | adjective   | có phong cảnh đẹp               | Travel & Tourism | High     | New     |
-| cruise            | noun        | chuyến du lịch bằng tàu; đi tàu | Travel & Tourism | High     | New     |
-| sightseeing       | noun        | việc tham quan                  | Travel & Tourism | High     | New     |
-| transit           | noun        | phương tiện công cộng; quá cảnh | Transportation   | High     | New     |
-| railway           | noun        | đường sắt                       | Transportation   | High     | New     |
-| crosswalk         | noun        | vạch sang đường                 | Transportation   | High     | New     |
-| traffic jam       | noun        | kẹt xe                          | Transportation   | High     | New     |
-| packing lot       | noun        | bãi đỗ xe                       | Transportation   | High     | New     |
-| ticket booth      | noun        | quầy bán vé                     | Transportation   | High     | New     |
-| one-way           | adjective   | một chiều                       | Transportation   | High     | New     |
-| round trip        | noun        | chuyến đi khứ hồi               | Transportation   | High     | New     |
-| direct flight     | noun phrase | chuyến bay thẳng                | Transportation   | High     | New     |
-| connecting flight | noun phrase | chuyến bay nối chuyến           | Transportation   | High     | New     |
-| arrival time      | noun phrase | giờ đến                         | Transportation   | High     | Learned |
-| departure time    | noun phrase | giờ khởi hành                   | Transportation   | High     | Learned |
-| vehicle           | noun        | phương tiện, xe                 | Transportation   | High     | Learned |
+| Word              | Type        | Meaning                         | Topic            | Priority  | Status  |
+| ----------------- | ----------- | ------------------------------- | ---------------- | --------- | ------- |
+| itinerary         | noun        | lịch trình chuyến đi            | Road Travel      | High      | New     |
+| toll              | noun        | phí đường bộ                    | Road Travel      | High      | New     |
+| subway            | noun        | tàu điện ngầm                   | Transportation   | High      | New     |
+| accommodation     | noun        | chỗ ở, nơi lưu trú              | Travel & Tourism | High      | New     |
+| scenic            | adjective   | có phong cảnh đẹp               | Travel & Tourism | High      | New     |
+| cruise            | noun        | chuyến du lịch bằng tàu; đi tàu | Travel & Tourism | High      | New     |
+| sightseeing       | noun        | việc tham quan                  | Travel & Tourism | High      | New     |
+| transit           | noun        | phương tiện công cộng; quá cảnh | Transportation   | High      | New     |
+| railway           | noun        | đường sắt                       | Transportation   | High      | New     |
+| crosswalk         | noun        | vạch sang đường                 | Transportation   | High      | New     |
+| traffic jam       | noun        | kẹt xe                          | Transportation   | High      | New     |
+| packing lot       | noun        | bãi đỗ xe                       | Transportation   | High      | New     |
+| ticket booth      | noun        | quầy bán vé                     | Transportation   | High      | New     |
+| one-way           | adjective   | một chiều                       | Transportation   | High      | New     |
+| round trip        | noun        | chuyến đi khứ hồi               | Transportation   | High      | New     |
+| direct flight     | noun phrase | chuyến bay thẳng                | Transportation   | High      | New     |
+| connecting flight | noun phrase | chuyến bay nối chuyến           | Transportation   | High      | New     |
+| arrival time      | noun phrase | giờ đến                         | Transportation   | High      | Learned |
+| departure time    | noun phrase | giờ khởi hành                   | Transportation   | High      | Learned |
+| vehicle           | noun        | phương tiện, xe                 | Transportation   | High      | Learned |
+| departure         | noun        | sự khởi hành                    | Airport & Flight | Very High | New     |
+| depart            | noun        | việc đến nơi                    | Airport & Flight | High      | New     |
+| arrival           | noun        | sự đến nơi                      | Airport & Flight | Very High | New     |
+| terminal          | noun        | nhà ga                          | Airport & Flight | Very High | New     |
+| passenger         | noun        | hành khách                      | Airport & Flight | Very High | New     |
+| flight            | noun        | chuyến bay                      | Airport & Flight | Very High | New     |
+| luggage           | noun        | hành lý                         | Airport & Flight | Very High | New     |
+| board             | verb        | lên máy bay/tàu                 | Airport & Flight | Very High | New     |
+| boarding          | noun        | việc lên máy bay                | Airport & Flight | High      | New     |
+| carry-on          | noun        | hành lý xách tay                | Airport & Flight | High      | New     |
+| transportation    | noun        | phương tiện giao thông          | Transportation   | Very High | New     |
+| track             | noun        | đường ray                       | Transportation   | Medium    | New     |
+| fare              | noun        | giá vé                          | Transportation   | Very High | New     |
+| commute           | noun, verb  | đi lại hằng ngày                | Transportation   | High      | New     |
+| commuter          | noun        | người đi làm/ đ học hằng ngày   | Transportation   | High      | New     |
+| congestion        | noun        | ùn tắc                          | Transportation   | Very High | New     |
+| intersection      | noun        | giao lộ                         | Transportation   | High      | New     |
+| pedestrian        | noun        | người đi bộ                     | Transportation   | High      | New     |
+| platform          | noun        | sân ga                          | Transportation   | Very High | New     |
+| highway           | noun        | đường cao tốc                   | Road Travel      | High      | Learned |
+| freeway           | noun        | đường cao tốc                   | Road Travel      | Medium    | Learned |
+| roadway           | noun        | phần đường xe chạy              | Road Travel      | Medium    | New     |
 
 ## 🏨 Hotels & Restaurants
 
