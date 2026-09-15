@@ -63,6 +63,9 @@
 | highway           | noun        | đường cao tốc                   | Road Travel      | High      | Learned |
 | freeway           | noun        | đường cao tốc                   | Road Travel      | Medium    | Learned |
 | roadway           | noun        | phần đường xe chạy              | Road Travel      | Medium    | New     |
+| stone             | noun        | cục đá                          | Road Travel      | Medium    | New     |
+| rock              | noun        | đá tảng                         | Road Travel      | Medium    | New     |
+| gravel            | noun        | sỏi                             | Road Travel      | High      | New     |
 
 ## 🏨 Hotels & Restaurants
 
@@ -219,6 +222,21 @@
 | examine      | verb | khám, kiểm tra             | Health & Medical | High      | New     |
 | diagnosis    | noun | sự chuẩn đoán              | Health & Medical | High      | New     |
 | insurance    | noun | bảo hiểm                   | Health & Medical | Very High | Learned |
+
+## 🙂 Feedback & Emotions
+
+| Word      | Type      | Meaning                         | Topic               | Priority  | Status |
+| --------- | --------- | ------------------------------- | ------------------- | --------- | ------ |
+| disapoint | verb      | làm thất vọng                   | Feedback & Emotions | High      | New    |
+| frustrate | verb      | làm thất vọng, nản lòng         | Feedback & Emotions | Very High | New    |
+| thrill    | noun/verb | làm cho hào húng, sự phấn khích | Feedback & Emotions | Medium    | New    |
+| delight   | verb/noun | rất vui mừng, làm hài lòng      | Feedback & Emotions | High      | New    |
+| terrible  | adjective | tòi tệ, kinh khủng              | Feedback & Emotions | Very High | New    |
+| grateful  | adjective | biết hơn                        | Feedback & Emotions | High      | New    |
+| praise    | noun/verb | khen ngợi                       | Feedback & Emotions | High      | New    |
+| annoyed   | adjective | bực bội, khó chịu               | Feedback & Emotions | High      | New    |
+| pleased   | adjective | hài lòng, ưng ý                 | Feedback & Emotions | High      | New    |
+| relieve   | verb      | nhẹ nhõm, làm dịu căng thẳng    | Feedback & Emotions | Very High | New    |
 
 ---
 
