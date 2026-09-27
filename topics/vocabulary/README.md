@@ -16,6 +16,11 @@
 | promote    | verb | thăng chức                                 | Business & Company | High      | New     |
 | resign     | verb | từ chức, nghỉ việc                         | Business & Company | High      | New     |
 | retire     | verb | nghỉ hưu                                   | Business & Company | High      | New     |
+| accomplish | verb | hoàn thành                                 | Business & Company | High      | New     |
+| ability    | noun | có khả năng, năng lục                      | Business & Company | High      | New     |
+| situation  | noun | tình huống, hoàn cảnh                      | Business & Company | Very High | New     |
+| adapt      | verb | sự thích nghi                              | Business & Company | Very High | New     |
+| bachelor   | noun | bằng cử nhân                               | Business & Company | Very High | New     |
 
 ## ✈️ Travel & Transportation
 
@@ -237,6 +242,21 @@
 | annoyed   | adjective | bực bội, khó chịu               | Feedback & Emotions | High      | New    |
 | pleased   | adjective | hài lòng, ưng ý                 | Feedback & Emotions | High      | New    |
 | relieve   | verb      | nhẹ nhõm, làm dịu căng thẳng    | Feedback & Emotions | Very High | New    |
+
+## 🖥️ Software & IT / Coding
+
+| Word          | Type             | Meaning                            | Topic                  | Priority | Status  |
+| ------------- | ---------------- | ---------------------------------- | ---------------------- | -------- | ------- |
+| underscore    | noun             | dấu gạch dưới                      | Software & IT / Coding | High     | Learned |
+| hyphen        | noun             | dấu gạch nối                       | Software & IT / Coding | High     | learned |
+| slash         | noun             | dấu \                              | Software & IT / Coding | High     | New     |
+| backslash     | noun             | dấu /                              | Software & IT / Coding | High     | New     |
+| singular noun | pharse           | danh từ đơn                        | Software & IT / Coding | High     | Learned |
+| reusability   | adjective        | tái sử dụng                        | Software & IT / Coding | High     | New     |
+| secure        | adjective / verb | an toàn, bảo mật / bảo vệ, đảm bảo | Software & IT / Coding | High     | New     |
+| exceed        | verb             | vượt quá                           | Software & IT / Coding | High     | New     |
+| desire        | verb / noun      | khao khát, mong muốn               | Software & IT / Coding | High     | New     |
+| wonderful     | adjective        | tuyệt vời                          | Software & IT / Coding | High     | New     |
 
 ---
 
