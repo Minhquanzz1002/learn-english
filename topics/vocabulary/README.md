@@ -2,25 +2,26 @@
 
 ## 🏢 Business & Company
 
-| Word       | Type | Meaning                                    | Topic              | Priority  | Status  |
-| ---------- | ---- | ------------------------------------------ | ------------------ | --------- | ------- |
-| employee   | noun | nhân viên                                  | Business & Company | High      | Learned |
-| employer   | noun | người sử dụng lao động, công ty tuyển dụng | Business & Company | Very High | New     |
-| department | noun | phòng ban                                  | Business & Company | Very High | Learned |
-| manager    | noun | quản lý                                    | Business & Company | Very High | Learned |
-| supervisor | noun | người giám sát, cấp trên trực tiếp         | Business & Company | High      | Learned |
-| colleague  | noun | đồng nghiệp                                | Business & Company | Very High | Learned |
-| position   | noun | vị trí công việc                           | Business & Company | Very High | New     |
-| applicant  | noun | ứng viên, người nộp đơn                    | Business & Company | Very High | New     |
-| hire       | verb | tuyển dụng                                 | Business & Company | Very High | New     |
-| promote    | verb | thăng chức                                 | Business & Company | High      | New     |
-| resign     | verb | từ chức, nghỉ việc                         | Business & Company | High      | New     |
-| retire     | verb | nghỉ hưu                                   | Business & Company | High      | New     |
-| accomplish | verb | hoàn thành                                 | Business & Company | High      | New     |
-| ability    | noun | có khả năng, năng lục                      | Business & Company | High      | New     |
-| situation  | noun | tình huống, hoàn cảnh                      | Business & Company | Very High | New     |
-| adapt      | verb | sự thích nghi                              | Business & Company | Very High | New     |
-| bachelor   | noun | bằng cử nhân                               | Business & Company | Very High | New     |
+| Word       | Type      | Meaning                                    | Topic              | Priority  | Status  |
+| ---------- | --------- | ------------------------------------------ | ------------------ | --------- | ------- |
+| employee   | noun      | nhân viên                                  | Business & Company | High      | Learned |
+| employer   | noun      | người sử dụng lao động, công ty tuyển dụng | Business & Company | Very High | New     |
+| department | noun      | phòng ban                                  | Business & Company | Very High | Learned |
+| manager    | noun      | quản lý                                    | Business & Company | Very High | Learned |
+| supervisor | noun      | người giám sát, cấp trên trực tiếp         | Business & Company | High      | Learned |
+| colleague  | noun      | đồng nghiệp                                | Business & Company | Very High | Learned |
+| position   | noun      | vị trí công việc                           | Business & Company | Very High | New     |
+| applicant  | noun      | ứng viên, người nộp đơn                    | Business & Company | Very High | New     |
+| hire       | verb      | tuyển dụng                                 | Business & Company | Very High | New     |
+| promote    | verb      | thăng chức                                 | Business & Company | High      | New     |
+| resign     | verb      | từ chức, nghỉ việc                         | Business & Company | High      | New     |
+| retire     | verb      | nghỉ hưu                                   | Business & Company | High      | New     |
+| accomplish | verb      | hoàn thành                                 | Business & Company | High      | New     |
+| ability    | noun      | có khả năng, năng lục                      | Business & Company | High      | New     |
+| situation  | noun      | tình huống, hoàn cảnh                      | Business & Company | Very High | New     |
+| adapt      | verb      | sự thích nghi                              | Business & Company | Very High | New     |
+| bachelor   | noun      | bằng cử nhân                               | Business & Company | Very High | New     |
+| diverse    | adjective | đa dạng, phong phú                         | Business & Company | Very High | New     |
 
 ## ✈️ Travel & Transportation
 
@@ -102,19 +103,22 @@
 
 ## 🛒 Shopping & Customer Service
 
-| Word         | Type             | Meaning                    | Topic                       | Priority  | Status  |
-| ------------ | ---------------- | -------------------------- | --------------------------- | --------- | ------- |
-| retailer     | noun             | nhà bán lẻ                 | Shopping & Customer Service | High      | New     |
-| exchange     | noun, verb       | việc trả hàng, trả lại     | Shopping & Customer Service | High      | New     |
-| warranty     | noun             | bảo hành                   | Shopping & Customer Service | High      | New     |
-| complaint    | noun             | lời phàn nàn, khiếu nại    | Shopping & Customer Service | High      | New     |
-| cashier      | noun             | thu ngân                   | Shopping & Customer Service | High      | New     |
-| counter      | noun             | quầy                       | Shopping & Customer Service | High      | New     |
-| return       | noun, verb       | việc trả hàng, trả lại     | Shopping & Customer Service | Very High | New     |
-| order        | noun, verb       | đơn hàng, đặt hàng         | Shopping & Customer Service | Very High | Learned |
-| refund       | noun, verb       | khoản hoàn tiền; hoàn tiền | Shopping & Customer Service | Very High | Learned |
-| out of stock | adjective phrase | hết hàng                   | Shopping & Customer Service | Very High | New     |
-| defective    | adjective        | bị lỗi                     | Shopping & Customer Service | Very High | New     |
+| Word         | Type             | Meaning                      | Topic                       | Priority  | Status  |
+| ------------ | ---------------- | ---------------------------- | --------------------------- | --------- | ------- |
+| retailer     | noun             | nhà bán lẻ                   | Shopping & Customer Service | High      | New     |
+| exchange     | noun, verb       | việc trả hàng, trả lại       | Shopping & Customer Service | High      | New     |
+| warranty     | noun             | bảo hành                     | Shopping & Customer Service | High      | New     |
+| complaint    | noun             | lời phàn nàn, khiếu nại      | Shopping & Customer Service | High      | New     |
+| cashier      | noun             | thu ngân                     | Shopping & Customer Service | High      | New     |
+| counter      | noun             | quầy                         | Shopping & Customer Service | High      | New     |
+| return       | noun, verb       | việc trả hàng, trả lại       | Shopping & Customer Service | Very High | New     |
+| order        | noun, verb       | đơn hàng, đặt hàng           | Shopping & Customer Service | Very High | Learned |
+| refund       | noun, verb       | khoản hoàn tiền; hoàn tiền   | Shopping & Customer Service | Very High | Learned |
+| out of stock | adjective phrase | hết hàng                     | Shopping & Customer Service | Very High | New     |
+| defective    | adjective        | bị lỗi                       | Shopping & Customer Service | Very High | New     |
+| demand       | verb, noun       | yêu cầu, nhu cầu             | Shopping & Customer Service | Very High | New     |
+| fade         | verb             | phai màu, mờ dần, suy giảm   | Shopping & Customer Service | Medium    | New     |
+| count on     | phrasal verb     | trông cậy vào, tin tưởng vào | Shopping & Customer Service | High      | New     |
 
 ## 📅 Events & Schedules
 
@@ -194,7 +198,7 @@
 | tracking         | noun      | việc theo dõi hàng                   | Shipping & Logistics | Very High | New     |
 | tracking number  | noun      | mã vận đơn                           | Shipping & Logistics | Very High | New     |
 | shipping address | noun      | địa chỉ giao hàng                    | Shipping & Logistics | Very High | Learned |
-| on time          | noun      | đúng giờ, đúng hạn                   | Shipping & Logistics | Very High | New     |
+| on time          | noun      | đúng giờ, đúng hạn                   | Shipping & Logistics | Very High | Learned |
 | delay            | noun/verb | sự trì hoãn, trì hoãn                | Shipping & Logistics | Very High | New     |
 | delivery date    | noun      | ngày giao hàng                       | Shipping & Logistics | Very High | Learned |
 
@@ -257,6 +261,13 @@
 | exceed        | verb             | vượt quá                           | Software & IT / Coding | High     | New     |
 | desire        | verb / noun      | khao khát, mong muốn               | Software & IT / Coding | High     | New     |
 | wonderful     | adjective        | tuyệt vời                          | Software & IT / Coding | High     | New     |
+
+## 🌟 Communication & Presentation
+
+| Word      | Type   | Meaning                     | Topic                        | Priority  | Status  |
+| --------- | ------ | --------------------------- | ---------------------------- | --------- | ------- |
+| thereby   | adverb | nhờ đó, do đó, bằng cách đó | Communication & Presentation | High      | New     |
+| emphasize | verb   | nhấn mạnh                   | Communication & Presentation | Very High | Learned |
 
 ---
 
