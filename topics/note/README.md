@@ -92,44 +92,6 @@
   * I’ve worked on various projects, such as AI document tools, packing systems, and mapping applications.
   * Currently, I’m looking to deepen my domain expertise and grow into a Mid-level Backend Engineer.
 
-## What do you want from the company?
-
-> I want to learn more and improve my skills, especially technical skill, communication skills, problem solving skills.
-
-## What is your current salary?
-
-> My current salary is 12 million VND per month.
-
-> Six point one (sáu chấm một)
-## What is your expected salary?
-
-> My expected salary is around 9 millions.
-
-## Why do you expect this salary?
-
-> Because I have worked very hard and effectively. This is shown in my performance file.
-
-## What have you done in the past six months working here?
-
-> In the past six months, I have worked as a Java Develop on the UCARO project.
-> I have learned more about Java, clean code, reducing bugs, and accommucating with clients.
-
-## How do you feel after six months of working here?
-
-> After six months of working here, I feel this is a professional IT environment. The equipment and systems fully support my daily work, and I have improved my technical skills a lot.
-
-## How long have you worked here?
-
-> I have worked here since February
-
-> Thank you very much to the company, Mr Duong and Mr Onogawa for giving me the opportunity to work here.  
-> I feel grateful and motivated to continue learning and improving my skills.  
-> I hope I can contribute well to the company in the feature.
-
-## Have you graduated? Which university did you study at?
-
-> I graduated from the Industrial University of Ho Chi Minh, majoring in Software Engineering.
-
 ## Expressing Completed Actions (Xác nhận đã hoàn thành công việc)
 
 * **Context:** Trả lời hoặc báo cáo khi đã hoàn thành xong một nhiệm vụ/công việc được giao
@@ -180,3 +142,69 @@
   * Let me see...
 * **Notes:**
   * Rất hữu ích khi đi phỏng vấn hoặc họp hành để tránh khoảng lặng (dead silence).
+
+## Tenure (Thời gian làm việc)
+
+**Q: How long have you worked here?**
+
+* **Answer:** I have been working here since February, so it’s been about six months.
+* **Notes:**
+* **Since + Mốc thời gian:** *since February* (từ tháng 2).
+* **For + Khoảng thời gian:** *for 6 months* (được 6 tháng).
+
+## Work Experience & Performance (Kinh nghiệm & Đánh giá 6 tháng)
+
+**Q: What have you done in the past six months working here?**
+
+* **Answer:** Over the past six months, I worked as a Java Developer on the UCARO project. I focused on writing clean code, reducing bugs, and improving my communication with clients.
+* **Notes:**
+* Dùng danh từ **Java Developer** (tránh nhầm thành *Java Develop*).
+* **Client communication** / **communicating with clients**: Giao tiếp với khách hàng (sửa lỗi chính tả *accommucating*).
+* **Reducing bugs:** Giảm thiểu lỗi phần mềm.
+
+**Q: How do you feel after six months of working here?**
+
+* **Answer:** I feel this is a very professional environment. The equipment and systems fully support my daily work, and I have improved my technical skills a lot.
+* **Notes:**
+* **Professional environment:** Môi trường chuyên nghiệp.
+* **Fully support my work:** Hỗ trợ tốt cho công việc.
+
+## Career Goals & Expectations (Mục tiêu & Kỳ vọng)
+
+**Q: What do you want from the company?**
+
+* **Answer:** I want to continuously learn and improve my skills, especially my technical, communication, and problem-solving skills.
+* **Notes:**
+* Tất cả các kỹ năng đều để dạng số nhiều: *technical skills*, *communication skills*, *problem-solving skills*.
+* **Problem-solving skills:** Kỹ năng giải quyết vấn đề.
+
+## Salary & Compensation (Lương & Đãi ngộ)
+
+**Q: What is your current salary?**
+
+* **Answer:** My current salary is 12 million VND per month, at grade 6.1.
+* **Notes:**
+* **Grade six point one (6.1):** Bậc / Cấp độ lương hiện tại trong công ty.
+
+**Q: What is your expected salary?**
+
+* **Answer:** My expected salary is around [Số tiền] million VND per month.
+* **Notes:**
+* Không thêm "s" vào *million* khi đi kèm số đếm cụ thể (ví dụ: *9 million VND*, *15 million VND* — không dùng *9 millions*).
+
+**Q: Why do you expect this salary?**
+
+* **Answer:** Because I have worked hard and delivered good results over the past six months, which is reflected in my performance evaluation.
+* **Notes:**
+* Dùng **Performance evaluation** hoặc **Performance review** (Đánh giá hiệu suất công việc) thay cho *performance file*.
+* **Deliver good results:** Mang lại kết quả công việc tốt.
+
+## Closing Remarks & Gratitude (Lời cảm ơn & Cam kết)
+
+**Q: Do you have any final words or feedback?**
+
+* **Answer:** I would like to express my gratitude to the company, Mr. Duong, and Mr. Onogawa for giving me this opportunity. I feel motivated to keep improving and look forward to contributing more in the future.
+* **Notes:**
+* **Express my gratitude to [Name]:** Bày tỏ lòng biết ơn tới ai.
+* **In the future:** Trong tương lai (sửa lỗi chính tả *in the feature*).
+* **Contribute to:** Đóng góp cho...
