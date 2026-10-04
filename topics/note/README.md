@@ -80,6 +80,7 @@
   * Then, I use AI to create an implementation plan
   * After implement, I use AI to create a checklist to verify and test the task.
   * Finally, I use the checklist to test my implementation and make sure it meets the requirements.
+  * At every step, I check everything carefully to make sure the AI output is correct.
 * **Notes:** Read -> Summarize -> Check -> Plan -> Checklist -> Test
 
 ## Professional Experience (Kinh nghiệm làm việc)
