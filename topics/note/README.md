@@ -12,7 +12,7 @@
 
 **Q: How old are you?**
 
-* **Answer: I am twenty-four years old**
+* **Answer:** I am twenty-four years old
 
 **Q: What year were you born?**
 
@@ -81,6 +81,16 @@
   * After implement, I use AI to create a checklist to verify and test the task.
   * Finally, I use the checklist to test my implementation and make sure it meets the requirements.
 * **Notes:** Read -> Summarize -> Check -> Plan -> Checklist -> Test
+
+## Professional Experience (Kinh nghiệm làm việc)
+
+**Q: Walk me through your professional experience and current role.**
+
+* **Answer:**
+  * I’m a Backend Software Engineer at ISB Vietnam with nearly two years of experience.
+  * My main stack includes Java, Spring Boot, PostgreSQL, and REST APIs.
+  * I’ve worked on various projects, such as AI document tools, packing systems, and mapping applications.
+  * Currently, I’m looking to deepen my domain expertise and grow into a Mid-level Backend Engineer.
 
 ## What do you want from the company?
 
